@@ -1,0 +1,9 @@
+Sposób1:
+/usr/lib/gcc/x86_64-pc-linux-gnu/11.3.0/../../../../x86_64-pc-linux-gnu/bin/ld: d.o: in function `doppelganger()':
+d.cc:(.text+0x0): multiple definition of `doppelganger()'; c.o:c.cc:(.text+0x0): first defined here
+
+Sposób2:
+/usr/lib/gcc/x86_64-pc-linux-gnu/11.3.0/../../../../x86_64-pc-linux-gnu/bin/ld: ./ccXTlX7N.o: in function `doppelganger()':
+d.cc:(.text+0x0): multiple definition of `doppelganger()'; ./ccoJhUYl.o:c.cc:(.text+0x0): first defined here
+
+Etap: Strzelam w kompilację, bo są wspomniane zarówno pliki z kodem jak i object files
