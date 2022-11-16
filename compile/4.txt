@@ -1,2 +1,0 @@
-/usr/lib/gcc/x86_64-pc-linux-gnu/11.3.0/../../../../x86_64-pc-linux-gnu/bin/ld: 4.o: in function `main':
-4.cc:(.text+0x5): undefined reference to `schrodinger()'
