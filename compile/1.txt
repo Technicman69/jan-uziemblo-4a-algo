@@ -1,8 +1,0 @@
-Sposób nr.1
-/usr/lib/gcc/x86_64-pc-linux-gnu/11.3.0/../../../../x86_64-pc-linux-gnu/bin/ld: b.o:(.data+0x0): multiple definition of `doppleganger'; a.o:(.data+0x0): first defined here
-
-Sposób nr.2
-/usr/lib/gcc/x86_64-pc-linux-gnu/11.3.0/../../../../x86_64-pc-linux-gnu/bin/ld: ./cchuKQBs.o:(.data+0x0): multiple definition of `doppleganger'; ./cc18OLaO.o:(.data+0x0): first defined here
-
-Etap kompilacji: linkowanie
-(kompilacja - wywaliło by błędy o plikach z rozszerzeniem .cc, asemblacja - wywaliło by błąd o plikach wykonywalnych i niezwiązany z nazwą, parsowanie - chyba podobnie jak kombinacja, lub na odwót lub się nie znam. Tak czy siak metodą eliminacji - linkowanie)
