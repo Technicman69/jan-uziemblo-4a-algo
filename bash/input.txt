@@ -1,0 +1,1206 @@
+<!DOCTYPE html>
+<!-- saved from url=(0066)https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&p=1 -->
+<html translate="no" lang="pl-PL" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" class="k-webkit k-webkit107" data-device-size="on" data-os="windows" data-browser=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Wykaz relacji powiązanych na stacji Warszawa Ochota oraz podręczna wyszukiwarka połączeń.">
+    <meta property="og:image" content="https://portalpasazera.pl/Content/images/ppas.jpg">
+        <link rel="canonical" href="https://portalpasazera.pl/KatalogiStacji?stacja=WARSZAWA+OCHOTA">
+            <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+    
+    <meta http-equiv="cleartype" content="on">
+    
+    <meta name="mobile-web-app-capable" content="yes">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="translucent-black">
+    <meta name="apple-itunes-app" content="app-id=1454640062">
+    
+    <title>WARSZAWA OCHOTA - Rozkład jazdy PKP PLK S.A., godziny odjazdów oraz ceny biletów - Portal Pasażera - PKP Polskie Linie Kolejowe S.A.</title>
+    <link rel="SHORTCUT ICON" href="https://portalpasazera.pl/Content/images/favicons/favicon.ico">
+    
+    <link href="./input_files/css" rel="stylesheet">
+    <link href="./input_files/ppv3013css" rel="stylesheet">
+
+    
+    <link rel="stylesheet" href="./input_files/mate.min.css">
+    <link rel="stylesheet" href="./input_files/project.min.css">
+    <link rel="stylesheet alternate" href="https://portalpasazera.pl/Content/styles/scss/highcontrast.min.css" media="all" title="highcontrast">
+    
+    <script src="./input_files/ppv3013js"></script>
+
+    <!-- async defer-->
+    
+    
+<style type="text/css">:root zeus-ad, :root topadblock, :root span[id^="ezoic-pub-ad-placeholder-"], :root guj-ad, :root div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"], :root div[id^="yandex_ad"], :root div[id^="vuukle-ad-"], :root div[id^="rc-widget-"], :root div[id^="lazyad-"], :root div[id^="js-dfp-"], :root div[id^="gtm-ad-"], :root div[id^="gpt_ad_"], :root div[id^="gpt-ad-hor"], :root div[id^="div-gpt-"], :root div[id^="dfp-slot-"], :root div[id^="dfp-ad-"], :root div[id^="advads_"], :root div[id^="adspot-"], :root div[id^="ads300_250-widget-"], :root div[id^="ads300_100-widget-"], :root div[id^="ads250_250-widget-"], :root div[id^="adrotate_widgets-"], :root div[id^="adngin-"], :root div[id^="adfox_"], :root div[id^="ad_script_"], :root div[id^="ad-server-"], :root div[id^="ad-gpt-"], :root div[id^="ad-div-"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root div[data-mpu1], :root div[data-insertion], :root div[data-id-advertdfpconf], :root div[data-google-query-id], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-content="Advertisement"], :root div[data-alias="300x250 Ad 2"], :root div[data-alias="300x250 Ad 1"], :root div[data-adzone], :root div[data-adunit-path], :root div[data-ad-wrapper], :root div[data-ad-targeting], :root div[data-ad-placeholder], :root div[class^="s-dfp-"], :root div[class^="native-ad-"], :root div[data-dfp-id], :root div[class^="kiwi-ad-wrapper"], :root div[class^="Adstyled__AdWrapper-"], :root div[aria-label="Ads"], :root display-ads, :root aside[id^="advads_ad_widget-"], :root aside[id^="adrotate_widgets-"], :root article.ad, :root div[class^="gpt-ad-hor"], :root ark-top-ad, :root app-advertisement, :root amp-embed[type="taboola"], :root amp-connatix-player, :root amp-ad-custom, :root ad-shield-ads, :root ad-desktop-sidebar, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://www.vfreecams.com/in/?track="], :root a[href^="https://www.rabbits.webcam/?id="], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://www.passeura.com/"], :root a[href^="https://www.oneclickroot.com/?tap_a="] > img, :root a[href^="https://www.oboom.com/ref/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.nudeidols.com/cams/"], :root a[href^="https://www.mypornstarcams.com/landing/click/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href^="https://www.kingsoffetish.com/tour?partner_id="], :root a[href^="https://www.jackery.com?aff="] > img, :root a[href^="https://www.iyalc.com/"], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancegate.com/"], :root a[href^="https://www.healthrangerstore.com/"] > img, :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="https://www.clicktraceclick.com/"], :root a[href^="https://www.camsoda.com/enter.php?id="], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root div[class^="Display_displayAd"], :root a[href^="https://www.sheetmusicplus.com/?aff_id="], :root a[href^="https://www.bang.com/?aff="], :root a[href^="https://www.arthrozene.com/"][href*="?tid="], :root a[href^="https://www.adsexse.com/x/"], :root a[href^="https://webroutetrk.com/"], :root iframe[src^="http://ad.yieldmanager.com/"], :root a[href^="https://wantopticalfreelance.com/"], :root a[href^="https://waisheph.com/"], :root a[href^="https://uncensored.game/"], :root a[href^="https://twinrdsyn.com/"], :root a[href^="https://ttf.trmobc.com/"], :root a[href^="https://trusted-click-host.com/"], :root a[href^="https://trk.watchlivesports4k.club/"], :root a[href^="https://trk.moviesflix4k.xyz/"], :root a[href^="https://trf.bannerator.com/"], :root a[href^="https://trappist-1d.com/"], :root a[href^="https://tragency-clesburg.icu/"], :root a[href^="https://traffdaq.com/"], :root a[href^="https://tracking.trackcasino.co/"], :root a[href^="https://tracking.comfortclick.eu/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.totalav.com/"], :root a[href^="https://track.themadtrcker.com/"], :root a[href^="https://track.interactivegf.com/"], :root a[href^="https://vlnk.me/"], :root a[href^="https://track.healthtrader.com/"], :root a[href^="https://track.effiliation.com/servlet/effi.click?"] > img, :root a[href^="https://track.clickmoi.xyz/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://tupitea.co/"], :root a[href^="https://track.adform.net/"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href^="https://tm-offers.gamingadult.com/"], :root div[data-adname], :root a[href^="https://thechleads.pro/"], :root a[href^="https://tracking.gitads.io/"], :root a[href^="https://taghaugh.com/"], :root a[href^="https://t.mobtya.com/"], :root a[href^="https://t.hrtyj.com/"], :root a[href^="https://www.profitablecpmgate.com/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://topoffers.com/"][href*="/?pid="], :root a[href^="https://syndication.dynsrvtbg.com/"], :root a[href^="https://streamate.com/landing/click/"], :root a[href^="https://s.zlink2.com/"], :root a[href^="https://reachtrgt.com/"], :root a[href^="https://queersodadults.com/"], :root a[href^="https://promo-bc.com/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root a[href^="https://pongidsrunback.com/"], :root a[href^="https://pcm.bannerator.com/"], :root iframe[id^="google_ads_frame"], :root a[href^="https://pb-track.com/"], :root a[href^="https://partners.fxoro.com/click.php?"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://torrentsafeguard.com/?aid="], :root a[href^="https://offers.refchamp.com/"], :root a[href^="https://oackoubs.com/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://nutrientassumptionclaims.com/"], :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://t.grtyi.com/"], :root a[href^="https://myusenet.xyz/"], :root a[href^="https://msecure117.com/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href^="https://movie.download-file.org/"], :root div[id^="ezoic-pub-ad-"], :root a[href^="https://mk-cdn.net/"], :root .trc_rbox_div .syndicatedItemUB, :root [href^="https://zone.gotrackier.com/"], :root a[href^="https://meet-to-fuck.com/"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://maymooth-stopic.com/"], :root div[id^="google_dfp_"], :root a[href^="http://googleads.g.doubleclick.net/pcs/click"], :root a[href^="https://look.utndln.com/"], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://lobimax.com/"], :root a[href^="https://lead1.pl/"], :root a[href^="https://refpazkjixes.top/"], :root a[href^="https://landing.brazzersplus.com/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://ads.leovegas.com/redirect.aspx?"], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://itubego.com/video-downloader/?affid="], :root a[href^="https://incisivetrk.cvtr.io/click?"], :root a[href^="https://iactrivago.ampxdirect.com/"], :root a[href^="https://iac.ampxdirect.com/"], :root a[href^="https://go.zybrdr.com"], :root [href^="http://join.michelle-austin.com/"], :root a[href^="https://go.xxxiijmp.com"], :root a[href*=".zlinkm.com/"], :root a[href^="https://go.xtbaffiliates.com/"], :root a[href^="https://thaudray.com/"], :root [data-role="tile-ads-module"], :root a[href^="https://adsrv4k.com/"], :root a[href^="https://go.xlviirdr.com"], :root .card-captioned.crd > .crd--cnt > .s2nPlayer, :root [data-css-class="dfp-inarticle"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="//lambingsyddir.com/"], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://go.ebrokerserve.com/"], :root a[href^="https://go.dmzjmp.com"], :root a[href^="https://ismlks.com/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://azpresearch.club/"], :root a[href^="https://go.xlirdr.com"], :root a[href^="https://track.afftck.com/"], :root a[href^="https://gohere.pl/"], :root a[href^="https://go.cmrdr.com/"], :root a[href^="https://www.bebi.com"], :root a[href^="https://loboclick.com"], :root iframe[src^="https://pagead2.googlesyndication.com/"], :root a[href^="http://www.onwebcam.com/random?t_link="], :root a[href^="https://get2nesoft1.ru/"], :root [href^="https://kingered-banctours.com/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://affiliate.rusvpn.com/click.php?"], :root a[href^="https://geniusdexchange.com/"], :root a[href^="https://aj1070.online/"], :root a[href^="https://frameworkdeserve.com/"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://financeads.net/tc.php?"], :root bottomadblock, :root a[href^="https://fertilitycommand.com/"], :root a[href^="https://bluedelivery.pro/"], :root a[href^="https://fast-redirecting.com/"], :root a[href^="https://fakelay.com/"], :root a[href^="https://medleyads.com/"], :root div[data-native-ad], :root AD-SLOT, :root a[href^="https://engine.trackingdesks.com/"], :root a[href^="https://engine.blueistheneworanges.com/"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://dianches-inchor.com/"], :root a[href^="https://go.admjmp.com/"], :root amp-fx-flying-carpet, :root a[href^="https://dfsdkkka.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href^="https://deliver.tf2www.com/"], :root [href^="https://www.targetingpartner.com/"], :root [href^="https://detachedbates.com/"], :root a[href^="https://deliver.ptgncdn.com/"], :root a[href^="https://datingbests.life/"], :root #kt_player > a[target="_blank"], :root a[href^="https://cpartner.bdswiss.com/"], :root a[href^="https://clixtrac.com/"], :root AD-TRIPLE-BOX, :root a[href^="https://click.hoolig.app/"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://porntubemate.com/"], :root a[href^="http://www.gfrevenge.com/landing/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://click.dtiserv2.com/"], :root a[href^="https://go.xlvirdr.com"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://chaturbate.com/in/?track="], :root a[href^="https://chaturbate.com/in/?tour="], :root a[href^="https://aaucwbe.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root a[href^="https://mob1ledev1ces.com/"], :root a[href^="https://explore.findanswersnow.net/"], :root a[href^="https://camfapr.com/landing/click/"], :root a[href^="https://my-movie.club/"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="https://affcpatrk.com/"], :root a[href^="https://bongacams2.com/track?"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://bngpt.com/"], :root #topstuff > #tads, :root a[href^="https://black77854.com/"], :root a[href^="https://burpee.xyz/"], :root a[href*=".flndmyiove.net/"], :root [href^="http://join.trannies-fuck.com/"], :root [href^="http://www.fleshlightgirls.com/"], :root a[href^="https://bestdatinghere.life/"], :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root a[href^="https://banners.livepartners.com/"], :root a[href^="https://m.do.co/c/"] > img, :root div[id^="sticky_ad_"], :root a[href^="https://avtub.click/assets/link.php"], :root a[href^="https://go.gldrdr.com/"], :root [href^="https://www.cloudways.com/en/?id"], :root a[href^="https://as.sexad.net/"], :root a[href^="https://bestcond1tions.com/"], :root a[href^="https://takeallsoft.ru/"], :root a[href^="https://as.conjectwatson.com/"], :root [href="https://masstortfinancing.com"] img, :root a[href^="https://bongacams10.com/track?"], :root [data-ez-name], :root a[href^="https://awecrptjmp.com/"], :root a[href^="https://someperceptionparade.com/"], :root a[href^="https://galaxyroms.net/?scr="], :root a[href^="https://albionsoftwares.com/"], :root display-ad-component, :root a[href^="https://ak.hetaruwg.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.alxbgo.com/"], :root a[href^="https://aff-ads.stickywilds.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://ads.cdn.live/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://intenseaffiliates.com/redirect/"], :root a[href^="https://aweptjmp.com/"], :root a[href^="https://ads.ad4game.com/"], :root a[href^="https://affpa.top/"], :root a[href^="https://adnetwrk.com/"], :root a[href^="https://adjoincomprise.com/"], :root [href^="http://misslinkvocation.com/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root [href^="https://r.kraken.com/"], :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="http://secure.vivid.com/track/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root a[href^="https://misspkl.com/"], :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root a[href^="https://ad.kubiccomps.icu/"], :root a[href^="https://adswick.com/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://ad.atdmt.com/"], :root a[href^="https://meet-sex-here.com/"], :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root a[href^="http://www.mrskin.com/tour"], :root a[href^="https://k2s.cc/pr/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://www.coiwqe.site/"], :root iframe[src^="http://www.adpeepshosted.com/"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://ads-for-free.com/click.php?"], :root a[href^="http://www.FriendlyDuck.com/"], :root a[href^="http://traffic.tc-clicks.com/"], :root a[href^="http://tc.tradetracker.net/"] > img, :root .trc_rbox .syndicatedItem, :root a[href^="https://1free33style.com/"], :root a[href^="http://rs-stripe.wsj.com/stripe/redirect"], :root a[href^="http://tour.mrskin.com/"], :root a[href^="http://pubads.g.doubleclick.net/"], :root [onclick*="content.ad/"], :root a[href^="http://pityhostngco2.xyz/"], :root a[href^="http://partners.etoro.com/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root a[href^="http://paid.outbrain.com/network/redir?"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://www.reimageplus.com/"], :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="http://intent.bingads.com/"], :root a[href^="https://cagothie.net/"], :root a[href^="https://watchmygirlfriend.tv/"], :root a[href^="http://go.xtbaffiliates.com/"], :root a[href^="http://go.fpmarkets.com/"], :root a[href^="http://www.advcashpro.com/aff/"], :root a[href^="http://deloplen.com/"], :root a[href^="http://d2.zedo.com/"], :root .rc-cta[data-target], :root [href^="http://go.cm-trk2.com/"], :root a[href^="http://adtrack1.club/"], :root a[href^="http://click.payserve.com/"], :root a[href^="https://bs.serving-sys.com"], :root [class^="chp_ads_block"], :root a[href^="http://betahit.click/"], :root a[href^="https://clicks.pipaffiliates.com/"], :root [href^="https://noqreport.com/"] > img, :root a[href^="//wagerprocuratorantiterrorist.com/"], :root a[href^="http://adserver.adreactor.com/"], :root [href^="https://cipledecline.buzz/"], :root a[href^="https://earandmarketing.com/"], :root a[href^="http://adf.ly/?id="], :root [href^="http://homemoviestube.com/"], :root a[href^="http://ad.doubleclick.net/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci, :root a[href^="//syndication.dynsrvtbg.com/"], :root a[href^="//pubads.g.doubleclick.net/"], :root a[href^="http://m.hsrve.com/"], :root [class^="s2nPlayer"], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root a[href^="https://ausoafab.net/"], :root a[href^="//benoopto.com/"], :root [id^="ad-wrap-"], :root [href^="https://www.restoro.com/"], :root a[href^="//apptjmp.com/"], :root a[href^="https://dooloust.net/"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root [href^="https://secure.bmtmicro.com/servlets/"], :root a[href="//rufflycouncil.com/"], :root a[href*="https://www.sweetdeals.com/"] img, :root div[data-native_ad], :root a[href*=".zlink9.com/"], :root [data-d-ad-id], :root a[href*=".engine.adglare.net/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://dishphysics.com/"], :root a[href^="//go.xlviiirdr.com"], :root [data-dynamic-ads], :root a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"], :root [data-ad-width], :root [href^="https://join.playboyplus.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root a[href^="https://axdsz.pro/"], :root a[href^="http://bodelen.com/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://ptapjmp.com/"], :root DFP-AD, :root a[href^="http://allaptair.club/"], :root a[href^="//go.eabids.com/"], :root a[data-oburl^="http://paid.outbrain.com/network/redir?"], :root [href^="https://cpa.10kfreesilver.com/"], :root a[href^="https://a.bestcontentfood.top/"], :root a[href^="https://reinstandpointdumbest.com/"], :root a[href*="http://MyPillow.com"] > img, :root a[data-obtrack^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://wct.link/"], :root [href^="https://goldforyourfuture.com/clk.trk"] img, :root [href^="https://infinitytrk.com/"], :root [onclick^="location.href='http://www.reimageplus.com"], :root a[href^="https://pl.premium4kflix.website/"], :root [id^="chp_ads_block"], :root a[href^="https://go.julrdr.com/"], :root a[href^="//chrif8kdstie.com/"], :root [id^="section-ad-banner"], :root .commercial-unit-mobile-top > div[data-pla="1"], :root a[href^="https://www.sweetdeals.com"], :root a[href^="https://track.bruceads.com/"], :root a[href^="https://t.aslnk.link/"], :root [href^="https://zstacklife.com/"] img, :root [data-ad-manager-id], :root a[href^="https://fleshlight.sjv.io/"], :root div[id^="zergnet-widget"], :root [href^="https://www.mystore.com/"] > img, :root div[id^="ad-position-"], :root a[href^="http://adultfriendfinder.com/go/page/landing"], :root a[href^="http://affiliate.glbtracker.com/"], :root a[href^="https://leg.xyz/?track="], :root a[href^="http://bc.vc/?r="], :root [href^="https://www.brighteonstore.com/products/"] img, :root a[href^="https://syndication.exoclick.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://go.trackitalltheway.com/"], :root a[href^="https://go.cmtaffiliates.com/"], :root [data-name="adaptiveConstructorAd"], :root [href^="https://optimizedelite.com/"] > img, :root a[href^="https://www.awin1.com/cread.php?awinaffid="], :root a[href^="//thaudray.com/"], :root a[href*=".trust.zone"], :root a[href^="http://trk.mdrtrck.com/"], :root [href^="https://shrugartisticelder.com"], :root div[id^="crt-"][style], :root a[href^="https://s.zlink1.com/"], :root a[href^="http://adultgames.xxx/"], :root a[href^="https://traffic.bannerator.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://vo2.qrlsx.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root a[href^="https://losingoldfry.com/"], :root div[id^="ad-inserter-"], :root .scroll-fixable.rail-right > .deals-rail, :root a[href^="https://see.kmisln.com/"], :root [href^="https://routewebtk.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://go.goasrv.com/"], :root .commercial-unit-mobile-top > .v7hl4d, :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root [href^="https://stvkr.com/"], :root a[href^="https://tour.mrskin.com/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root ADS-RIGHT, :root [href^="https://mystore.com/"] > img, :root a[href^="https://moneynow.one/"], :root [href^="https://mypatriotsupply.com/"] > img, :root [href^="https://mylead.global/stl/"] > img, :root .vid-present > .van_vid_carousel__padding, :root a[href^="https://syndication.optimizesrv.com/"], :root [id^="google_ads_iframe"], :root app-ad, :root a[href^="https://go.xxxijmp.com"], :root [href^="https://istlnkcl.com/"], :root a[href^="https://playuhd.host/"], :root a[href^="https://5hjdbfjfd5.monster/"], :root [href^="https://www.hostg.xyz/"] > img, :root .section-subheader > .section-hotel-prices-header, :root [href^="http://join.ts-dominopresley.com/"], :root [href^="https://go.affiliatexe.com/"], :root a[href^="https://meet-sexhere.com/"], :root [href^="https://go.4rabettraff.com/"], :root [href^="https://glersakr.com/"], :root a[href^="https://click.a-ads.com/"], :root a[href^="https://wittered-mainging.com/"], :root [href^="https://engine.gettopple.com/"], :root [href^="https://awbbjmp.com/"], :root a[href^="https://gghf.mobi/"], :root [href^="https://affect3dnetwork.com/track/"], :root a[href^="https://go.currency.com/"], :root [href^="http://www.mypillow.com/"] > img, :root a[href^="//coarsewary.com/"], :root a[href^="https://a.montangop.top/"], :root [href^="https://v.investologic.co.uk/"], :root a[href^="https://dialling-abutory.com/"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="https://adultfriendfinder.com/go/page/landing"], :root div[id^="advads-"], :root div[data-role="sidebarAd"], :root [href^="https://join3.bannedsextapes.com"], :root div[data-spotim-slot], :root [href^="https://antiagingbed.com/discount/"] > img, :root a[href^="https://go.247traffic.com/"], :root [href^="https://join.girlsoutwest.com/"], :root [href^="http://trafficare.net/"], :root a[href^="https://adserver.adreactor.com/"], :root [href^="http://join.shemalesfromhell.com/"], :root [id^="ad_slider"], :root [href^="https://clk.right-wing-health.com/"], :root a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"], :root [href^="http://join.shemale.xxx/"], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://www.chngtrack.com/"], :root a[href^="https://cpmspace.com/"], :root [href^="https://freecourseweb.com/"] > .sitefriend, :root a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"], :root [href^="http://join.rodneymoore.com/"], :root a[href^="https://uncensored3d.com/"], :root a[href^="https://creacdn.top-convert.com/"], :root [href^="https://go.xlrdr.com"], :root [id^="div-gpt-ad"], :root .ob_container .item-container-obpd, :root gpt-ad, :root [href^="http://www.pingperfect.com/aff.php"], :root a[href^="https://scurewall.co/"], :root [name^="google_ads_iframe"], :root a[href^="https://landing1.brazzersnetwork.com"], :root #slashboxes > .deals-rail, :root [href^="http://globsads.com/"], :root [href^="http://mypillow.com/"] > img, :root [href^="//ngeoziadiyc4hi2e.com/"], :root a[href^="https://go.xxxjmp.com"], :root a[href^="https://transfer.xe.com/signup/track/redirect?"], :root #leader-companion > a[href], :root [data-desktop-ad-id], :root [href^="https://wct.link/"], :root [href^="https://traffserve.com/"], :root a[href^="https://1startfiledownload1.com/"], :root a[href^="https://a.adtng.com/"], :root a[href^="http://static.fleshlight.com/images/banners/"], :root [href="https://ourgoldguy.com/contact/"] img, :root [href="https://www.masstortfinancing.com/"] > img, :root a[href^="https://lnkxt.bannerator.com/"], :root div[id^="ad_position_"], :root a[href^="https://ovb.im/"], :root a[href^="http://hotcandyland.com/partner/"], :root [href="https://jdrucker.com/gold"] > img, :root [href^="https://goldcometals.com/clk.trk"], :root [data-mobile-ad-id], :root a[href^="http://affiliates.thrixxx.com/"], :root #searchResultsList > div > div[onclick$="'inline.ad'});"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root [data-template-type="nativead"], :root a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"], :root a[href^="https://go.xlivrdr.com"], :root a[href^="https://www.onlineusershielder.com/torrent-guard/?"], :root [data-freestar-ad], :root [data-ad-cls], :root div[id^="taboola-stream-"], :root [href^="https://go.astutelinks.com/"], :root [href^="http://join.hardcoreshemalevideo.com/"], :root a[href^="http://ads2.williamhill.com/redirect.aspx?"], :root a[href^="https://porngames.adult/?SID="], :root a[href^="http://go.247traffic.com/"], :root [href^="http://residenceseeingstanding.com/"], :root a[href^="https://www.adskeeper.com"], :root a[href^="//agacelebir.com/"], :root [href^="https://totlnkcl.com/"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root a[href^="http://www.onclickmega.com/jump/next.php?"], :root .trc_rbox_border_elm .syndicatedItem, :root [class^="amp-ad-"], :root div[id^="_vdo_ads_player_ai_"], :root a[href^="http://enter.anabolic.com/track/"], :root .trc_related_container div[data-item-syndicated="true"], :root a[href^="https://delivery.porn.com/"], :root [href^="https://click2cvs.com/"], :root a[href^="https://a2.adform.net/"], :root a[data-redirect^="http://paid.outbrain.com/network/redir?"], :root [data-revive-zoneid], :root a[href^="https://googleads.g.doubleclick.net/pcs/click"], :root AMP-AD, :root [href^="https://mypillow.com/"] > img, :root [href^="https://ad.admitad.com/"], :root [href^="http://join.shemalepornstar.com/"], :root a[href^="https://go.xlviiirdr.com"], :root .trc_rbox_div .syndicatedItem, :root a-ad, :root [data-ad-module], :root .grid > .container > #aside-promotion, :root [href^="https://trackfin.asia/"], :root .plistaList > .plista_widget_underArticle_item[data-type="pet"], :root a[href^="https://spygasm.com/track?"], :root a[href^="https://agacelebir.com/"], :root a[href*="//lkstrck2.com/"], :root .plistaList > .itemLinkPET, :root [data-advadstrackid], :root [href^="https://affiliate.fastcomet.com/"] > img, :root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="https://awentw.com/"], :root [class^="div-gpt-ad"], :root a[href^="//voyeurhit.com/cs/"], :root div[id^="ad_bnr_"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://speedsupermarketdonut.com/"], :root #taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root [data-adblockkey], :root div.fadeInDown[id$="____equal"][class$="____equal"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://odnxe.lncredlbiedate.com/"], :root a[href^="https://click.linksynergy.com/fs-bin/"], :root a[href^="https://join.virtualtaboo.com/track/"], :root a[href^="http://https://www.get-express-vpn.com/offer/"], :root [id^="ad_sky"], :root a[href^="https://americafirstpolls.com/"] { display: none !important; }</style></head>
+<body data-fixed="183" style="padding-top: 183px;" data-fixed-logo="true">
+
+    <div id="loading" style="display: none;" data-loading-text="Trwa przekierowywanie">
+        <div class="spin-wrapper">
+            <span class="icon-spinner icon--lg mate-spin"></span>
+            <div id="loading-msg">
+            </div>
+        </div>
+    </div>
+    <div id="mobi-id" style="display: none;">0</div>
+    <div id="page-id" style="display: none;">KS</div>
+    
+    <div id="header">
+        <ul id="accessible-menu">
+            <li><a href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1#accessible-aside-nav" id="accessible-aside-nav-selector">Menu główne</a></li>
+            <li><a href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1#accessible-body" onclick="setTimeout(function(){ window.scrollTo(0, 0); }, 10);">Przeskocz do treści</a></li>
+            <li><a href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1#accessible-footer">Stopka</a></li>
+        </ul>
+        <div id="accessible-aside-nav" class="header">
+            <div id="install-mobile-prompt">
+                <table>
+                    <tbody><tr>
+                        <td>
+                            <div class="prompt-close">
+                                <button id="close-mobile-prompt" type="button" title="Zamknij popup" class="btn btn--clean abt-n-db">
+                                    <span class="icon-close icon--md"></span><span class="visuallyhidden">Zamknij popup - kliknij by zamknąć okienko informacji o aplikacji mobilnej</span>
+                                </button>
+                            </div>
+                            <div class="prompt-item">
+                                <img tabindex="-1" src="./input_files/ppasapp.png" title="Logo aplikacji mobilnej, ikona pociągu na tle szarego gradientu">
+                            </div>
+                            <div tabindex="-1" class="prompt-item">
+                                <b>Portal Pasażera</b>
+                                <br>
+                                Pobierz aplikację na swój telefon!
+                            </div>
+                            <div class="prompt-view">
+                                <button id="view-mobile-prompt" type="button" class="btn btn--color-third btn-infotip abt-n-db" title="Przekierowanie na stronę informacji o aplikacji mobilnej.">ZOBACZ</button>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+                <a href="https://portalpasazera.pl/KatalogStacji?nazwa=w" class="header-nav__back abt-n-db abt-c-db loadScr" title="Wróć na poprzednią stronę.">
+                    <div>
+                        <span class="icon-arrow-left"></span>
+                        <span class="header-nav__back-txt txlc">Wróć</span>
+                    </div>
+                </a>
+            <div class="nav box">
+                <button id="hamburger-menu" type="button" title="Rozwijanie bocznego menu" data-nav="toggle" class="btn btn--clean btn-nav-toggle abt-n-db" style="margin-left: 38px;">
+                    <span class="icon-plk-hamburger icon--md"></span><span class="txuc">Menu</span>
+                </button>
+                <button id="navTools" data-js-trigger="nav_tools" data-js-target=".nav__tools" type="button" class="hidden--desktop btn btn--txt btn--color-second btn-expand-actions float-right abt-n-db" data-js-activemsg="Rozwinięto menu akcji podręcznych." data-js-deactivemsg="Zwinięto menu akcji podręcznych." title="Rozwijanie górnego menu akcji podręcznych. Po wciśnięciu ENTER będziesz mógł przejść do dodatkowych opcji wciskając przycisk TAB.">
+                    <span class="visuallyhidden">Narzędzia</span>
+                    <span class="icon-more-vert"></span>
+                </button>
+                <div class="nav__tools float-right">
+                    <button type="button" class="btn btn--color-third btn-infotip abt-n-db" data-infotip="toggle" title="Pokaż dodatkowe informacje o poszczególnych elementach strony">Infotip</button>
+                        <span title="Znajdź pociąg - Wybierz według jakich kryteriów chcesz wyszukać pociąg. W zależności od wybranej pozycji na liście zostanie wyświetlone odpowiednie okno modalne. Użyj strzałek góra/dół by przełączyć między dostępnymi opcjami." class="k-widget k-dropdown k-header find-train-selector abt-n-db" unselectable="on" role="listbox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-owns="find-train-selector_listbox" aria-disabled="false" aria-busy="false" aria-activedescendant="3fd8f8be-623e-4e3c-a09c-362a532ff960" style=""><span unselectable="on" class="k-dropdown-wrap k-state-default"><span unselectable="on" class="k-input">ZNAJDŹ POCIĄG</span><span unselectable="on" class="k-select" aria-label="select"><span class="k-icon k-i-arrow-s"></span></span></span><select name="find-train-selector" class="find-train-selector abt-n-db" id="find-train-selector" title="Wybierz według jakich kryteriów chcesz wyszukać pociąg. W zależności od wybranej pozycji na liście zostanie wyświetlone odpowiednie okno modalne." data-role="dropdownlist" style="display: none;"><option value="ZNAJDŹ POCIĄG">ZNAJDŹ POCIĄG</option><option value="na stacji">na stacji</option><option value="po numerze">po numerze</option></select></span>
+                    <button type="button" data-theme-switcher="highcontrast" class="btn btn--outline btn--color-second btn-contrast abt-n-db" title="Przełącz stronę między trybem zwykłego oraz wysokiego kontrastu" data-contrast="toggle"><span class="visuallyhidden">Zmień kontrast na stronie</span><span class="icon-plk-contrast"></span></button>
+                    <span title="Wybrano język Polski. Wciśnij ENTER by załadować stronę w wybranym języku" class="k-widget k-dropdown k-header lang-selector abt-n-db" unselectable="on" role="listbox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-owns="lang-selector_listbox" aria-disabled="false" aria-busy="false" aria-activedescendant="7682bba3-466c-4825-9a12-0fc796358434" lang="pl" style=""><span unselectable="on" class="k-dropdown-wrap k-state-default"><span unselectable="on" class="k-input">PL</span><span unselectable="on" class="k-select" aria-label="select"><span class="k-icon k-i-arrow-s"></span></span></span><select name="lang-selector" class="lang-selector abt-n-db" id="lang-selector" title="Wybierz język prezentowania strony" data-role="dropdownlist" style="display: none;"><option value="PL" selected="selected">PL</option><option value="EN">EN</option><option value="UA">UA</option></select></span>
+                </div>
+            </div>
+
+            <div class="inline-center logo-plk ">
+                <h1 class="abt-n-db abt abt-focusable ">
+                    <span class="visuallyhidden">Katalog stacji</span>
+                    <a class="abt-n-db abt-parent" href="https://portalpasazera.pl/Wyszukiwarka/Index" title="Przekierowanie na główną stronę Portalu Pasażera - wyszukiwarkę połączeń">
+                        <span class="visuallyhidden">Strona główna</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="370" height="89.5" viewBox="0 0 370 89.5" style="enable-background:new 0 0 370 89.5;" xml:space="preserve" alt="Logo zarządcy narodowej sieci linii kolejowych PKP Polskie Linie Kolejowe S.A." class="replace-svg replaced-svg">
+<g id="Warstwa_1_1_">
+	<path id="PLK_logo" fill="#878787" class="st0" d="M29.9,86.1l0.2-1.2l6.1-7.3l1.3-1.5c0.3-0.3,0.5-0.6,0.7-0.9c-0.5,0.1-0.9,0.1-1.1,0.1l-0.4,0l-0.5,0l-0.5,0   h-4.1l0.3-1.4h8.4l-0.1,1.3L33.7,83c-0.8,1-1.3,1.6-1.5,1.8c0.2,0,0.4,0,0.5,0h6.7L39,86.1H29.9L29.9,86.1z M46.5,85   c-0.5,0.4-1,0.8-1.5,1c-0.5,0.2-1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.7c-0.5-0.5-0.7-1.1-0.7-1.8c0-0.5,0.1-0.9,0.3-1.3   c0.2-0.4,0.5-0.7,0.9-0.9c0.4-0.2,0.8-0.4,1.4-0.5c0.3-0.1,1-0.1,1.9-0.2c0.9,0,1.6-0.1,2-0.3c0.1-0.4,0.2-0.8,0.2-1   c0-0.3-0.1-0.6-0.4-0.8c-0.3-0.3-0.9-0.4-1.5-0.4c-0.6,0-1.2,0.1-1.6,0.4c-0.4,0.3-0.7,0.7-0.9,1.2l-1.5-0.1c0.3-0.9,0.8-1.5,1.5-2   c0.7-0.5,1.5-0.7,2.6-0.7c1.1,0,2,0.3,2.6,0.8c0.5,0.4,0.7,0.9,0.7,1.5c0,0.5-0.1,1-0.2,1.6l-0.5,2.2c-0.2,0.7-0.2,1.3-0.2,1.7   c0,0.3,0.1,0.7,0.2,1.2h-1.5C46.6,85.8,46.5,85.5,46.5,85L46.5,85z M47,81.6c-0.2,0.1-0.4,0.1-0.7,0.2c-0.2,0-0.6,0.1-1.2,0.1   c-0.9,0.1-1.5,0.2-1.9,0.3c-0.4,0.1-0.6,0.3-0.8,0.6c-0.2,0.3-0.3,0.5-0.3,0.9c0,0.4,0.1,0.8,0.4,1c0.3,0.3,0.7,0.4,1.2,0.4   c0.5,0,1-0.1,1.4-0.4c0.5-0.3,0.8-0.6,1.1-1.1C46.7,83.2,46.9,82.5,47,81.6L47,81.6z M50,86.1l1.9-8.8h1.3l-0.4,1.8   c0.5-0.7,0.9-1.2,1.3-1.5c0.4-0.3,0.9-0.5,1.3-0.5c0.3,0,0.7,0.1,1.1,0.3L56,78.8c-0.3-0.2-0.5-0.3-0.9-0.3c-0.5,0-1.1,0.3-1.6,0.9   c-0.6,0.6-1,1.6-1.3,3.2l-0.8,3.6H50L50,86.1z M55.5,86.1l0.2-1.2l4.8-5.4c0.3-0.4,0.7-0.8,1.1-1.2c-0.7,0.1-1.2,0.1-1.5,0.1h-3.3   l0.3-1.3h6.8l-0.2,1l-4.8,5.4c-0.3,0.3-0.7,0.7-1.2,1.3c0.8-0.1,1.4-0.1,1.7-0.1h3.5l-0.3,1.3H55.5L55.5,86.1z M70.2,85   c-0.5,0.4-1,0.8-1.5,1c-0.5,0.2-1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.7c-0.5-0.5-0.7-1.1-0.7-1.8c0-0.5,0.1-0.9,0.3-1.3   c0.2-0.4,0.5-0.7,0.9-0.9c0.4-0.2,0.8-0.4,1.4-0.5c0.3-0.1,1-0.1,1.9-0.2c0.9,0,1.6-0.1,2-0.3c0.1-0.4,0.2-0.8,0.2-1   c0-0.3-0.1-0.6-0.4-0.8c-0.3-0.3-0.9-0.4-1.5-0.4c-0.6,0-1.2,0.1-1.6,0.4c-0.4,0.3-0.7,0.7-0.9,1.2l-1.5-0.1c0.3-0.9,0.8-1.5,1.5-2   c0.7-0.5,1.5-0.7,2.6-0.7c1.1,0,2,0.3,2.6,0.8c0.5,0.4,0.7,0.9,0.7,1.5c0,0.5-0.1,1-0.2,1.6l-0.5,2.2c-0.2,0.7-0.2,1.3-0.2,1.7   c0,0.3,0.1,0.7,0.2,1.2h-1.5C70.3,85.8,70.2,85.5,70.2,85L70.2,85z M70.7,81.6c-0.2,0.1-0.4,0.1-0.7,0.2c-0.2,0-0.6,0.1-1.2,0.1   c-0.9,0.1-1.5,0.2-1.9,0.3c-0.4,0.1-0.6,0.3-0.8,0.6c-0.2,0.3-0.3,0.5-0.3,0.9c0,0.4,0.1,0.8,0.4,1c0.3,0.3,0.7,0.4,1.2,0.4   c0.5,0,1-0.1,1.4-0.4c0.5-0.3,0.8-0.6,1.1-1.1C70.4,83.2,70.6,82.5,70.7,81.6L70.7,81.6z M71.8,88.3l-0.2,1.1   c-0.4,0.2-0.8,0.3-1.2,0.3c-0.5,0-0.9-0.2-1.2-0.5c-0.2-0.2-0.2-0.4-0.2-0.7c0-0.5,0.2-0.9,0.6-1.4c0.3-0.3,0.6-0.7,1.1-1h1.1   c-0.8,0.4-1.2,0.9-1.3,1.6c0,0.1,0,0.2,0,0.2c0,0.4,0.2,0.6,0.7,0.6C71.2,88.6,71.5,88.5,71.8,88.3L71.8,88.3z M79.7,84.8   c-0.9,1-1.8,1.5-2.7,1.5c-0.8,0-1.5-0.3-2.1-0.9c-0.6-0.6-0.8-1.5-0.8-2.7c0-1.1,0.2-2.1,0.7-3c0.4-0.9,1-1.6,1.7-2   c0.7-0.4,1.3-0.7,2-0.7c1.1,0,1.9,0.5,2.5,1.6l1-4.8h1.5l-2.6,12.2h-1.4L79.7,84.8L79.7,84.8z M75.5,82.4c0,0.6,0.1,1.1,0.2,1.5   c0.1,0.4,0.3,0.7,0.6,0.9c0.3,0.2,0.6,0.4,1.1,0.4c0.7,0,1.3-0.4,1.9-1.1c0.7-0.9,1.1-2.1,1.1-3.5c0-0.7-0.2-1.2-0.5-1.6   c-0.4-0.4-0.8-0.6-1.4-0.6c-0.4,0-0.7,0.1-1,0.2c-0.3,0.2-0.6,0.4-0.9,0.8c-0.3,0.4-0.5,0.9-0.7,1.5C75.6,81.4,75.5,82,75.5,82.4   L75.5,82.4z M89.3,82.9l1.5,0.2c-0.4,1.1-0.9,1.9-1.6,2.5c-0.7,0.5-1.5,0.8-2.4,0.8c-1,0-1.7-0.3-2.3-0.9c-0.6-0.6-0.9-1.5-0.9-2.6   c0-1,0.2-1.9,0.6-2.9c0.4-0.9,0.9-1.6,1.6-2.1c0.7-0.5,1.5-0.7,2.4-0.7c0.9,0,1.7,0.3,2.3,0.8c0.6,0.5,0.8,1.2,0.8,2.1l-1.5,0.1   c0-0.6-0.2-1-0.5-1.3c-0.3-0.3-0.7-0.5-1.3-0.5c-0.6,0-1.1,0.2-1.6,0.6c-0.4,0.4-0.8,1-1,1.7c-0.3,0.8-0.4,1.5-0.4,2.3   c0,0.8,0.2,1.3,0.5,1.7s0.7,0.6,1.2,0.6c0.5,0,1-0.2,1.4-0.6C88.7,84.2,89.1,83.7,89.3,82.9L89.3,82.9z M97.7,85   c-0.5,0.4-1,0.8-1.5,1c-0.5,0.2-1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.7c-0.5-0.5-0.7-1.1-0.7-1.8c0-0.5,0.1-0.9,0.3-1.3   c0.2-0.4,0.5-0.7,0.9-0.9c0.4-0.2,0.8-0.4,1.4-0.5c0.3-0.1,1-0.1,1.9-0.2c0.9,0,1.6-0.1,2-0.3c0.1-0.4,0.2-0.8,0.2-1   c0-0.3-0.1-0.6-0.4-0.8c-0.3-0.3-0.9-0.4-1.5-0.4c-0.6,0-1.2,0.1-1.6,0.4c-0.4,0.3-0.7,0.7-0.9,1.2l-1.5-0.1c0.3-0.9,0.8-1.5,1.5-2   c0.7-0.5,1.5-0.7,2.6-0.7c1.1,0,2,0.3,2.6,0.8c0.5,0.4,0.7,0.9,0.7,1.5c0,0.5-0.1,1-0.2,1.6l-0.5,2.2c-0.2,0.7-0.2,1.3-0.2,1.7   c0,0.3,0.1,0.7,0.2,1.2h-1.5C97.8,85.8,97.7,85.5,97.7,85L97.7,85z M98.3,81.6c-0.2,0.1-0.4,0.1-0.7,0.2c-0.2,0-0.6,0.1-1.2,0.1   c-0.9,0.1-1.5,0.2-1.9,0.3c-0.4,0.1-0.6,0.3-0.8,0.6c-0.2,0.3-0.3,0.5-0.3,0.9c0,0.4,0.1,0.8,0.4,1c0.3,0.3,0.7,0.4,1.2,0.4   c0.5,0,1-0.1,1.4-0.4c0.5-0.3,0.8-0.6,1.1-1.1C97.9,83.2,98.1,82.5,98.3,81.6L98.3,81.6z M106,86.1l1.9-8.8h1.4l-0.3,1.5   c0.6-0.6,1.1-1,1.7-1.3c0.5-0.3,1-0.4,1.6-0.4c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.6c0,0.3-0.1,0.8-0.2,1.6l-1.1,5.4h-1.5   l1.2-5.6c0.1-0.5,0.2-0.9,0.2-1.2c0-0.3-0.1-0.5-0.3-0.7c-0.2-0.2-0.5-0.3-0.9-0.3c-0.8,0-1.5,0.3-2.1,0.8c-0.6,0.6-1,1.5-1.3,2.9   l-0.9,4.1H106L106,86.1z M121.4,85c-0.5,0.4-1,0.8-1.5,1c-0.5,0.2-1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.7c-0.5-0.5-0.7-1.1-0.7-1.8   c0-0.5,0.1-0.9,0.3-1.3c0.2-0.4,0.5-0.7,0.9-0.9c0.4-0.2,0.8-0.4,1.4-0.5c0.3-0.1,1-0.1,1.9-0.2c0.9,0,1.6-0.1,2-0.3   c0.1-0.4,0.2-0.8,0.2-1c0-0.3-0.1-0.6-0.4-0.8c-0.3-0.3-0.9-0.4-1.5-0.4c-0.6,0-1.2,0.1-1.6,0.4c-0.4,0.3-0.7,0.7-0.9,1.2l-1.5-0.1   c0.3-0.9,0.8-1.5,1.5-2c0.7-0.5,1.5-0.7,2.6-0.7c1.1,0,2,0.3,2.6,0.8c0.5,0.4,0.7,0.9,0.7,1.5c0,0.5-0.1,1-0.2,1.6l-0.5,2.2   c-0.2,0.7-0.2,1.3-0.2,1.7c0,0.3,0.1,0.7,0.2,1.2h-1.5C121.5,85.8,121.5,85.5,121.4,85L121.4,85z M122,81.6   c-0.2,0.1-0.4,0.1-0.7,0.2c-0.2,0-0.6,0.1-1.2,0.1c-0.9,0.1-1.5,0.2-1.9,0.3c-0.4,0.1-0.6,0.3-0.8,0.6c-0.2,0.3-0.3,0.5-0.3,0.9   c0,0.4,0.1,0.8,0.4,1c0.3,0.3,0.7,0.4,1.2,0.4c0.5,0,1-0.1,1.4-0.4c0.5-0.3,0.8-0.6,1.1-1.1C121.6,83.2,121.8,82.5,122,81.6   L122,81.6z M125,86.1l1.9-8.8h1.3l-0.4,1.8c0.5-0.7,0.9-1.2,1.3-1.5c0.4-0.3,0.9-0.5,1.3-0.5c0.3,0,0.7,0.1,1.1,0.3l-0.6,1.4   c-0.3-0.2-0.5-0.3-0.9-0.3c-0.5,0-1.1,0.3-1.6,0.9c-0.6,0.6-1,1.6-1.3,3.2l-0.8,3.6H125L125,86.1z M130.9,82.8   c0-1.7,0.5-3.2,1.5-4.3c0.8-0.9,1.9-1.4,3.3-1.4c1.1,0,1.9,0.3,2.6,1c0.7,0.7,1,1.6,1,2.7c0,1-0.2,2-0.6,2.8c-0.4,0.9-1,1.5-1.8,2   c-0.8,0.5-1.6,0.7-2.4,0.7c-0.7,0-1.3-0.1-1.9-0.4c-0.6-0.3-1-0.7-1.3-1.2C131.1,84.1,130.9,83.5,130.9,82.8L130.9,82.8z    M132.4,82.6c0,0.8,0.2,1.5,0.6,1.9c0.4,0.4,0.9,0.6,1.5,0.6c0.3,0,0.6-0.1,1-0.2c0.3-0.1,0.6-0.3,0.9-0.6c0.3-0.3,0.5-0.6,0.7-0.9   c0.2-0.3,0.3-0.7,0.5-1.1c0.2-0.6,0.3-1.1,0.3-1.6c0-0.8-0.2-1.4-0.6-1.9c-0.4-0.4-0.9-0.7-1.5-0.7c-0.5,0-0.9,0.1-1.3,0.3   c-0.4,0.2-0.7,0.6-1.1,1c-0.3,0.4-0.5,0.9-0.7,1.5C132.5,81.7,132.4,82.2,132.4,82.6L132.4,82.6z M146.1,84.8   c-0.9,1-1.8,1.5-2.7,1.5c-0.8,0-1.5-0.3-2.1-0.9c-0.6-0.6-0.8-1.5-0.8-2.7c0-1.1,0.2-2.1,0.7-3c0.4-0.9,1-1.6,1.7-2   c0.7-0.4,1.3-0.7,2-0.7c1.1,0,1.9,0.5,2.5,1.6l1-4.8h1.5l-2.6,12.2h-1.4L146.1,84.8L146.1,84.8z M142,82.4c0,0.6,0.1,1.1,0.2,1.5   c0.1,0.4,0.3,0.7,0.6,0.9c0.3,0.2,0.6,0.4,1.1,0.4c0.7,0,1.3-0.4,1.9-1.1c0.7-0.9,1.1-2.1,1.1-3.5c0-0.7-0.2-1.2-0.5-1.6   c-0.4-0.4-0.8-0.6-1.4-0.6c-0.4,0-0.7,0.1-1,0.2c-0.3,0.2-0.6,0.4-0.9,0.8c-0.3,0.4-0.5,0.9-0.7,1.5C142.1,81.4,142,82,142,82.4   L142,82.4z M149.9,82.8c0-1.7,0.5-3.2,1.5-4.3c0.8-0.9,1.9-1.4,3.3-1.4c1.1,0,1.9,0.3,2.6,1c0.7,0.7,1,1.6,1,2.7c0,1-0.2,2-0.6,2.8   c-0.4,0.9-1,1.5-1.8,2c-0.8,0.5-1.6,0.7-2.4,0.7c-0.7,0-1.3-0.1-1.9-0.4c-0.6-0.3-1-0.7-1.3-1.2C150,84.1,149.9,83.5,149.9,82.8   L149.9,82.8z M151.4,82.6c0,0.8,0.2,1.5,0.6,1.9c0.4,0.4,0.9,0.6,1.5,0.6c0.3,0,0.6-0.1,1-0.2c0.3-0.1,0.6-0.3,0.9-0.6   c0.3-0.3,0.5-0.6,0.7-0.9c0.2-0.3,0.3-0.7,0.5-1.1c0.2-0.6,0.3-1.1,0.3-1.6c0-0.8-0.2-1.4-0.6-1.9c-0.4-0.4-0.9-0.7-1.5-0.7   c-0.5,0-0.9,0.1-1.3,0.3c-0.4,0.2-0.7,0.6-1.1,1c-0.3,0.4-0.5,0.9-0.7,1.5C151.5,81.7,151.4,82.2,151.4,82.6L151.4,82.6z    M160.8,86.1l-0.9-8.8h1.5l0.4,4l0.2,2.2c0,0.2,0,0.5,0,1c0.2-0.6,0.3-1,0.4-1.3c0.1-0.3,0.3-0.7,0.6-1.3l2.1-4.6h1.6l0.3,4.4   c0,0.7,0.1,1.6,0.1,2.7c0.3-0.7,0.7-1.8,1.4-3.1l1.9-4h1.5l-4.3,8.8h-1.6l-0.3-5.2c0-0.3,0-0.9-0.1-1.9c-0.2,0.6-0.5,1.2-0.8,1.9   l-2.3,5.2H160.8L160.8,86.1z M178,83.1l1.5,0.2c-0.2,0.7-0.7,1.4-1.5,2.1c-0.8,0.7-1.7,1-2.7,1c-0.7,0-1.3-0.2-1.8-0.5   c-0.5-0.3-1-0.7-1.3-1.3c-0.3-0.6-0.4-1.2-0.4-2c0-1,0.2-1.9,0.7-2.8c0.4-0.9,1-1.6,1.7-2c0.7-0.4,1.5-0.7,2.3-0.7   c1.1,0,1.9,0.3,2.5,1c0.6,0.7,0.9,1.6,0.9,2.7c0,0.4,0,0.9-0.1,1.3h-6.5c0,0.2,0,0.3,0,0.5c0,0.8,0.2,1.5,0.6,1.9   c0.4,0.4,0.8,0.7,1.4,0.7c0.5,0,1-0.2,1.5-0.5C177.3,84.2,177.7,83.8,178,83.1L178,83.1z M173.6,80.9h5c0-0.2,0-0.3,0-0.3   c0-0.8-0.2-1.3-0.6-1.7c-0.4-0.4-0.9-0.6-1.5-0.6c-0.6,0-1.2,0.2-1.8,0.7C174.2,79.4,173.8,80,173.6,80.9L173.6,80.9z M183.1,75.6   l0.4-1.7h1.5l-0.4,1.7H183.1L183.1,75.6z M178.3,89.5l0.3-1.3c0.3,0.1,0.7,0.1,0.9,0.1c0.3,0,0.6-0.1,0.8-0.3   c0.2-0.2,0.4-0.8,0.6-1.8l1.9-8.9h1.5l-1.9,9.2c-0.2,1.1-0.5,1.9-0.8,2.3c-0.4,0.6-1,0.8-1.7,0.8C179.3,89.7,178.9,89.6,178.3,89.5   L178.3,89.5z M189.6,83.1l1.5-0.1c0,0.4,0.1,0.8,0.2,1.1c0.1,0.3,0.4,0.6,0.7,0.8c0.4,0.2,0.8,0.3,1.3,0.3c0.7,0,1.2-0.1,1.5-0.4   c0.3-0.3,0.5-0.6,0.5-0.9c0-0.3-0.1-0.5-0.3-0.7c-0.2-0.2-0.7-0.5-1.5-0.9c-0.8-0.3-1.3-0.6-1.5-0.7c-0.4-0.2-0.7-0.5-0.8-0.8   c-0.2-0.3-0.3-0.7-0.3-1.1c0-0.7,0.3-1.3,0.8-1.8c0.6-0.5,1.3-0.8,2.3-0.8c1.1,0,2,0.3,2.5,0.8c0.6,0.5,0.9,1.2,0.9,2L196,80   c0-0.5-0.2-1-0.6-1.3c-0.4-0.3-0.9-0.5-1.5-0.5c-0.5,0-0.9,0.1-1.2,0.4c-0.3,0.2-0.4,0.5-0.4,0.8c0,0.3,0.1,0.5,0.4,0.7   c0.2,0.1,0.6,0.4,1.3,0.7c1.2,0.5,1.9,0.9,2.2,1.2c0.5,0.5,0.7,1,0.7,1.7c0,0.4-0.1,0.9-0.4,1.3c-0.3,0.4-0.7,0.8-1.2,1   c-0.6,0.3-1.2,0.4-2,0.4c-1,0-1.9-0.3-2.6-0.8C189.9,85.1,189.6,84.2,189.6,83.1L189.6,83.1z M200.2,75.6l0.4-1.7h1.5l-0.4,1.7   H200.2L200.2,75.6z M198,86.1l1.8-8.8h1.5l-1.8,8.8H198L198,86.1z M208.3,83.1l1.5,0.2c-0.2,0.7-0.7,1.4-1.5,2.1   c-0.8,0.7-1.7,1-2.7,1c-0.7,0-1.3-0.2-1.8-0.5c-0.5-0.3-1-0.7-1.3-1.3c-0.3-0.6-0.4-1.2-0.4-2c0-1,0.2-1.9,0.7-2.8   c0.4-0.9,1-1.6,1.7-2c0.7-0.4,1.5-0.7,2.3-0.7c1.1,0,1.9,0.3,2.5,1c0.6,0.7,0.9,1.6,0.9,2.7c0,0.4,0,0.9-0.1,1.3h-6.5   c0,0.2,0,0.3,0,0.5c0,0.8,0.2,1.5,0.6,1.9c0.4,0.4,0.8,0.7,1.4,0.7c0.5,0,1-0.2,1.5-0.5C207.6,84.2,208,83.8,208.3,83.1L208.3,83.1   z M203.9,80.9h5c0-0.2,0-0.3,0-0.3c0-0.8-0.2-1.3-0.6-1.7c-0.4-0.4-0.9-0.6-1.5-0.6c-0.6,0-1.2,0.2-1.8,0.7   C204.6,79.4,204.2,80,203.9,80.9L203.9,80.9z M217.4,82.9l1.5,0.2c-0.4,1.1-0.9,1.9-1.6,2.5c-0.7,0.5-1.5,0.8-2.4,0.8   c-1,0-1.7-0.3-2.3-0.9c-0.6-0.6-0.9-1.5-0.9-2.6c0-1,0.2-1.9,0.6-2.9c0.4-0.9,0.9-1.6,1.6-2.1c0.7-0.5,1.5-0.7,2.4-0.7   c0.9,0,1.7,0.3,2.3,0.8c0.6,0.5,0.8,1.2,0.8,2.1l-1.5,0.1c0-0.6-0.2-1-0.5-1.3c-0.3-0.3-0.7-0.5-1.3-0.5c-0.6,0-1.1,0.2-1.6,0.6   c-0.4,0.4-0.8,1-1,1.7c-0.3,0.8-0.4,1.5-0.4,2.3c0,0.8,0.2,1.3,0.5,1.7c0.3,0.4,0.7,0.6,1.2,0.6c0.5,0,1-0.2,1.4-0.6   C216.8,84.2,217.2,83.7,217.4,82.9L217.4,82.9z M222,75.6l0.4-1.7h1.5l-0.4,1.7H222L222,75.6z M219.8,86.1l1.8-8.8h1.5l-1.8,8.8   H219.8L219.8,86.1z M228.2,86.1l2.6-12.2h1.5l-2.6,12.2H228.2L228.2,86.1z M234.3,75.6l0.4-1.7h1.5l-0.4,1.7H234.3L234.3,75.6z    M232.1,86.1l1.8-8.8h1.5l-1.8,8.8H232.1L232.1,86.1z M235.9,86.1l1.9-8.8h1.4l-0.3,1.5c0.6-0.6,1.1-1,1.7-1.3   c0.5-0.3,1-0.4,1.6-0.4c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.6c0,0.3-0.1,0.8-0.2,1.6l-1.1,5.4h-1.5l1.2-5.6   c0.1-0.5,0.2-0.9,0.2-1.2c0-0.3-0.1-0.5-0.3-0.7c-0.2-0.2-0.5-0.3-0.9-0.3c-0.8,0-1.5,0.3-2.1,0.8c-0.6,0.6-1,1.5-1.3,2.9l-0.9,4.1   H235.9L235.9,86.1z M247.6,75.6l0.4-1.7h1.5l-0.4,1.7H247.6L247.6,75.6z M245.4,86.1l1.8-8.8h1.5l-1.8,8.8H245.4L245.4,86.1z    M251.4,75.6l0.4-1.7h1.5l-0.4,1.7H251.4L251.4,75.6z M249.2,86.1l1.8-8.8h1.5l-1.8,8.8H249.2L249.2,86.1z M257.8,86.1l2.6-12.2   h1.5l-1.6,7.6l4.4-4.2h2l-3.8,3.3l2.3,5.5h-1.7l-1.8-4.5l-1.8,1.6l-0.6,3H257.8L257.8,86.1z M266.6,82.8c0-1.7,0.5-3.2,1.5-4.3   c0.8-0.9,1.9-1.4,3.3-1.4c1.1,0,1.9,0.3,2.6,1c0.7,0.7,1,1.6,1,2.7c0,1-0.2,2-0.6,2.8c-0.4,0.9-1,1.5-1.8,2   c-0.8,0.5-1.6,0.7-2.4,0.7c-0.7,0-1.3-0.1-1.9-0.4c-0.6-0.3-1-0.7-1.3-1.2C266.7,84.1,266.6,83.5,266.6,82.8L266.6,82.8z    M268.1,82.6c0,0.8,0.2,1.5,0.6,1.9c0.4,0.4,0.9,0.6,1.5,0.6c0.3,0,0.6-0.1,1-0.2c0.3-0.1,0.6-0.3,0.9-0.6c0.3-0.3,0.5-0.6,0.7-0.9   c0.2-0.3,0.3-0.7,0.5-1.1c0.2-0.6,0.3-1.1,0.3-1.6c0-0.8-0.2-1.4-0.6-1.9c-0.4-0.4-0.9-0.7-1.5-0.7c-0.5,0-0.9,0.1-1.3,0.3   c-0.4,0.2-0.7,0.6-1.1,1c-0.3,0.4-0.5,0.9-0.7,1.5C268.2,81.7,268.1,82.2,268.1,82.6L268.1,82.6z M275.7,86.1l2.6-12.2h1.5   l-2.6,12.2H275.7L275.7,86.1z M286.1,83.1l1.5,0.2c-0.2,0.7-0.7,1.4-1.5,2.1c-0.8,0.7-1.7,1-2.7,1c-0.7,0-1.3-0.2-1.8-0.5   c-0.5-0.3-1-0.7-1.3-1.3c-0.3-0.6-0.4-1.2-0.4-2c0-1,0.2-1.9,0.7-2.8c0.4-0.9,1-1.6,1.7-2c0.7-0.4,1.5-0.7,2.3-0.7   c1.1,0,1.9,0.3,2.5,1c0.6,0.7,0.9,1.6,0.9,2.7c0,0.4,0,0.9-0.1,1.3h-6.5c0,0.2,0,0.3,0,0.5c0,0.8,0.2,1.5,0.6,1.9   c0.4,0.4,0.8,0.7,1.4,0.7c0.5,0,1-0.2,1.5-0.5C285.4,84.2,285.8,83.8,286.1,83.1L286.1,83.1z M281.7,80.9h5c0-0.2,0-0.3,0-0.3   c0-0.8-0.2-1.3-0.6-1.7c-0.4-0.4-0.9-0.6-1.5-0.6c-0.6,0-1.2,0.2-1.8,0.7C282.4,79.4,282,80,281.7,80.9L281.7,80.9z M291.2,75.6   l0.4-1.7h1.5l-0.4,1.7H291.2L291.2,75.6z M286.4,89.5l0.3-1.3c0.3,0.1,0.7,0.1,0.9,0.1c0.3,0,0.6-0.1,0.8-0.3   c0.2-0.2,0.4-0.8,0.6-1.8l1.9-8.9h1.5l-1.9,9.2c-0.2,1.1-0.5,1.9-0.8,2.3c-0.4,0.6-1,0.8-1.7,0.8C287.5,89.7,287,89.6,286.4,89.5   L286.4,89.5z M293.1,82.8c0-1.7,0.5-3.2,1.5-4.3c0.8-0.9,1.9-1.4,3.3-1.4c1.1,0,1.9,0.3,2.6,1c0.7,0.7,1,1.6,1,2.7   c0,1-0.2,2-0.6,2.8c-0.4,0.9-1,1.5-1.8,2c-0.8,0.5-1.6,0.7-2.4,0.7c-0.7,0-1.3-0.1-1.9-0.4c-0.6-0.3-1-0.7-1.3-1.2   C293.3,84.1,293.1,83.5,293.1,82.8L293.1,82.8z M294.6,82.6c0,0.8,0.2,1.5,0.6,1.9c0.4,0.4,0.9,0.6,1.5,0.6c0.3,0,0.6-0.1,1-0.2   c0.3-0.1,0.6-0.3,0.9-0.6c0.3-0.3,0.5-0.6,0.7-0.9c0.2-0.3,0.3-0.7,0.5-1.1c0.2-0.6,0.3-1.1,0.3-1.6c0-0.8-0.2-1.4-0.6-1.9   c-0.4-0.4-0.9-0.7-1.5-0.7c-0.5,0-0.9,0.1-1.3,0.3c-0.4,0.2-0.7,0.6-1.1,1c-0.3,0.4-0.5,0.9-0.7,1.5   C294.7,81.7,294.6,82.2,294.6,82.6L294.6,82.6z M304,86.1l-0.9-8.8h1.5l0.4,4l0.2,2.2c0,0.2,0,0.5,0,1c0.2-0.6,0.3-1,0.4-1.3   c0.1-0.3,0.3-0.7,0.6-1.3l2.1-4.6h1.6l0.3,4.4c0,0.7,0.1,1.6,0.1,2.7c0.3-0.7,0.7-1.8,1.4-3.1l1.9-4h1.5l-4.3,8.8h-1.6l-0.3-5.2   c0-0.3,0-0.9-0.1-1.9c-0.2,0.6-0.5,1.2-0.8,1.9l-2.3,5.2H304L304,86.1z M314.1,89.5l0.1-1.4c0.3,0.1,0.6,0.1,0.9,0.1   c0.3,0,0.6-0.1,0.7-0.2c0.2-0.2,0.5-0.5,0.8-1l0.5-0.9l-1.5-8.9h1.5l0.7,4.5c0.1,0.9,0.2,1.8,0.3,2.7l4-7.1h1.6l-5.6,10   c-0.5,1-1,1.6-1.5,1.9c-0.4,0.3-0.9,0.5-1.5,0.5C314.8,89.7,314.5,89.7,314.1,89.5L314.1,89.5z M329.3,82.9l1.5,0.2   c-0.4,1.1-0.9,1.9-1.6,2.5c-0.7,0.5-1.5,0.8-2.4,0.8c-1,0-1.7-0.3-2.3-0.9c-0.6-0.6-0.9-1.5-0.9-2.6c0-1,0.2-1.9,0.6-2.9   c0.4-0.9,0.9-1.6,1.6-2.1c0.7-0.5,1.5-0.7,2.4-0.7c0.9,0,1.7,0.3,2.3,0.8c0.6,0.5,0.8,1.2,0.8,2.1l-1.5,0.1c0-0.6-0.2-1-0.5-1.3   c-0.3-0.3-0.7-0.5-1.3-0.5c-0.6,0-1.1,0.2-1.6,0.6c-0.4,0.4-0.8,1-1,1.7c-0.3,0.8-0.4,1.5-0.4,2.3c0,0.8,0.2,1.3,0.5,1.7   c0.3,0.4,0.7,0.6,1.2,0.6c0.5,0,1-0.2,1.4-0.6C328.7,84.2,329.1,83.7,329.3,82.9L329.3,82.9z M331.8,86.1l2.6-12.2h1.5l-1,4.7   c0.6-0.5,1.1-0.9,1.6-1.2c0.5-0.2,1-0.4,1.5-0.4c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5c0,0.3-0.1,0.9-0.3,1.7l-1.1,5.2   h-1.5l1.1-5.4c0.2-0.8,0.2-1.3,0.2-1.5c0-0.3-0.1-0.5-0.3-0.7c-0.2-0.2-0.5-0.3-0.9-0.3c-0.5,0-1.1,0.1-1.6,0.4   c-0.5,0.3-0.9,0.7-1.2,1.2c-0.3,0.5-0.5,1.3-0.8,2.4l-0.8,3.8H331.8L331.8,86.1z"></path>
+	<path fill="#004882" id="Zarządca_narodowej_sieci_linii_kolejowych_1_" class="st1" d="M29.8,48.6V32.4h4.6c1.6,0,2.8,0.2,3.5,0.6c1.4,0.7,2.1,2.2,2.1,4.3c0,2.2-0.7,3.6-2.1,4.3   c-0.8,0.4-2.3,0.6-4.4,0.6v6.3H29.8L29.8,48.6z M33.6,39.4h0.2c1.1,0,1.8-0.2,2.1-0.7c0.2-0.3,0.3-0.8,0.3-1.6   c0-0.8-0.2-1.3-0.5-1.5c-0.2-0.2-0.6-0.3-1.1-0.3c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0h-0.4V39.4L33.6,39.4z M41.7,48.6V32.3h3.8   v6.5l2.8-6.5h3.9l-3.5,7.2l3.7,9.1h-4l-2.1-5.7l-0.8,1.6v4H41.7L41.7,48.6z M53.9,48.6V32.4h4.6c1.6,0,2.8,0.2,3.5,0.6   c1.4,0.7,2.1,2.2,2.1,4.3c0,2.2-0.7,3.6-2.1,4.3c-0.8,0.4-2.3,0.6-4.4,0.6v6.3H53.9L53.9,48.6z M57.7,39.4h0.2   c1.1,0,1.8-0.2,2.1-0.7c0.2-0.3,0.3-0.8,0.3-1.6c0-0.8-0.2-1.3-0.5-1.5c-0.2-0.2-0.6-0.3-1.1-0.3c-0.1,0-0.2,0-0.3,0   c-0.1,0-0.2,0-0.2,0h-0.4V39.4L57.7,39.4z M72.7,48.6V32.4h4.6c1.6,0,2.8,0.2,3.5,0.6c1.4,0.7,2.1,2.2,2.1,4.3   c0,2.2-0.7,3.6-2.1,4.3c-0.8,0.4-2.3,0.6-4.4,0.6v6.3H72.7L72.7,48.6z M76.5,39.4h0.2c1.1,0,1.8-0.2,2.1-0.7   c0.2-0.3,0.3-0.8,0.3-1.6c0-0.8-0.2-1.3-0.5-1.5c-0.2-0.2-0.6-0.3-1.1-0.3c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0h-0.4V39.4   L76.5,39.4z M84.5,43.9v-7.1c0-1.7,0.5-3,1.6-3.8c0.9-0.7,2.1-1,3.6-1c1.5,0,2.7,0.4,3.6,1.1c1,0.8,1.6,2.1,1.6,3.8v7.1   c0,1.7-0.4,2.9-1.1,3.7c-0.8,0.9-2.2,1.3-4.1,1.3c-1.8,0-3.2-0.5-4-1.4C84.9,46.7,84.5,45.5,84.5,43.9L84.5,43.9z M88.3,36.5v0.3   V44c0,0.6,0.1,1.1,0.3,1.5c0.2,0.4,0.6,0.6,1,0.6c0.5,0,0.8-0.2,1-0.6c0.2-0.4,0.3-0.9,0.3-1.7v-7v-0.3c0-0.6-0.1-1-0.4-1.2   c-0.3-0.2-0.6-0.4-1-0.4c-0.4,0-0.7,0.1-0.9,0.3C88.5,35.5,88.3,35.9,88.3,36.5L88.3,36.5z M96.5,48.6V32.3h3.8v13h4.6v3.2H96.5   L96.5,48.6z M105.6,43.2h3.5v1.3c0,0.5,0.1,0.9,0.4,1.2c0.3,0.3,0.6,0.4,1,0.4c1,0,1.4-0.5,1.4-1.6c0-0.7-0.5-1.4-1.6-2.1   c-1.7-1.1-2.7-1.8-3-2c-1.1-1-1.6-2.2-1.6-3.7v-0.4c0.2-1.4,0.6-2.4,1.4-3.1c0.8-0.7,1.9-1,3.3-1c1.4,0,2.6,0.4,3.5,1.1   c1,0.9,1.5,2.1,1.5,3.8v0.3h-3.5c0-0.9-0.1-1.5-0.4-1.8c-0.2-0.4-0.6-0.5-1-0.5c-0.3,0-0.6,0.1-0.7,0.2c-0.3,0.2-0.4,0.5-0.5,1   c0,0.7,0.5,1.4,1.6,2c1.9,1.2,2.9,1.8,2.9,1.9c1.1,0.9,1.6,1.9,1.6,3.2v0.7c0,1.8-0.5,3.1-1.4,4c-0.8,0.7-2,1.1-3.5,1.1   c-1.3,0-2.4-0.3-3.3-1c-1-0.7-1.5-1.7-1.5-3V43.2L105.6,43.2z M117,48.6V32.3h3.8v6.5l2.8-6.5h3.9l-3.5,7.2l3.7,9.1h-4l-2.1-5.7   l-0.8,1.6v4H117L117,48.6z M129.2,48.6V32.3h3.8v16.3H129.2L129.2,48.6z M135.1,48.6V32.3h8.7v3.2h-4.9v3h4.8v3.2h-4.8v3.5h5.2v3.2   H135.1L135.1,48.6z M152.9,48.6V32.3h3.8v13h4.6v3.2H152.9L152.9,48.6z M162.8,48.6V32.3h3.8v16.3H162.8L162.8,48.6z M168.6,48.6   V32.4h3.9l2.9,9.1h0.1l-0.4-9.1h3.6v16.2h-3.9l-3-9.1l0,0l0.3,9H168.6L168.6,48.6z M180.8,48.6V32.3h3.8v16.3H180.8L180.8,48.6z    M186.7,48.6V32.3h8.7v3.2h-4.9v3h4.8v3.2h-4.8v3.5h5.2v3.2H186.7L186.7,48.6z M204.7,48.6V32.3h3.8v6.5l2.8-6.5h3.9l-3.5,7.2   l3.7,9.1h-4l-2.1-5.7l-0.8,1.6v4H204.7L204.7,48.6z M216.6,43.9v-7.1c0-1.7,0.5-3,1.6-3.8c0.9-0.7,2.1-1,3.6-1   c1.5,0,2.7,0.4,3.6,1.1c1,0.8,1.6,2.1,1.6,3.8v7.1c0,1.7-0.4,2.9-1.1,3.7c-0.8,0.9-2.2,1.3-4.1,1.3c-1.8,0-3.2-0.5-4-1.4   C216.9,46.7,216.6,45.5,216.6,43.9L216.6,43.9z M220.4,36.5v0.3V44c0,0.6,0.1,1.1,0.3,1.5c0.2,0.4,0.6,0.6,1,0.6   c0.5,0,0.8-0.2,1-0.6c0.2-0.4,0.3-0.9,0.3-1.7v-7v-0.3c0-0.6-0.1-1-0.4-1.2c-0.3-0.2-0.6-0.4-1-0.4c-0.4,0-0.7,0.1-0.9,0.3   C220.6,35.5,220.4,35.9,220.4,36.5L220.4,36.5z M228.6,48.6V32.3h3.8v13h4.6v3.2H228.6L228.6,48.6z M238.4,48.6V32.3h8.7v3.2h-4.9   v3h4.8v3.2h-4.8v3.5h5.2v3.2H238.4L238.4,48.6z M252.8,32.4h3.8v12.3v0.3c0,1.2-0.3,2.1-1,2.9c-0.7,0.7-1.6,1.1-2.8,1.1   c-1.5,0-2.7-0.3-3.4-1c-0.8-0.7-1.2-1.7-1.2-3v-1.8h3v2.4c0,0.2,0.1,0.4,0.2,0.4c0.1,0.1,0.3,0.1,0.6,0.1c0.3,0,0.5,0,0.6-0.1   c0.1-0.1,0.2-0.2,0.2-0.4V32.4L252.8,32.4z M258.6,43.9v-7.1c0-1.7,0.5-3,1.6-3.8c0.9-0.7,2.1-1,3.6-1c1.5,0,2.7,0.4,3.6,1.1   c1,0.8,1.6,2.1,1.6,3.8v7.1c0,1.7-0.4,2.9-1.1,3.7c-0.8,0.9-2.2,1.3-4.1,1.3c-1.8,0-3.2-0.5-4-1.4   C258.9,46.7,258.6,45.5,258.6,43.9L258.6,43.9z M262.4,36.5v0.3V44c0,0.6,0.1,1.1,0.3,1.5c0.2,0.4,0.6,0.6,1,0.6   c0.5,0,0.8-0.2,1-0.6c0.2-0.4,0.3-0.9,0.3-1.7v-7v-0.3c0-0.6-0.1-1-0.4-1.2c-0.3-0.2-0.6-0.4-1-0.4c-0.4,0-0.7,0.1-0.9,0.3   C262.6,35.5,262.4,35.9,262.4,36.5L262.4,36.5z M272.7,48.6L270,32.4h3.7l1.1,11.4l0,0l1.6-11.4h3.7l1.4,11.4l0,0l1.2-11.4h3.6   l-2.7,16.2h-4.3l-1.2-11.4l-1.3,11.4H272.7L272.7,48.6z M287.6,48.6V32.3h8.7v3.2h-4.9v3h4.8v3.2h-4.8v3.5h5.2v3.2H287.6   L287.6,48.6z M304.9,43.2h3.5v1.3c0,0.5,0.1,0.9,0.4,1.2c0.3,0.3,0.6,0.4,1,0.4c1,0,1.4-0.5,1.4-1.6c0-0.7-0.5-1.4-1.6-2.1   c-1.7-1.1-2.7-1.8-3-2c-1.1-1-1.6-2.2-1.6-3.7v-0.4c0.2-1.4,0.6-2.4,1.4-3.1c0.8-0.7,1.9-1,3.3-1c1.4,0,2.6,0.4,3.5,1.1   c1,0.9,1.5,2.1,1.5,3.8v0.3h-3.5c0-0.9-0.1-1.5-0.4-1.8c-0.2-0.4-0.6-0.5-1-0.5c-0.3,0-0.6,0.1-0.7,0.2c-0.3,0.2-0.4,0.5-0.5,1   c0,0.7,0.5,1.4,1.6,2c1.9,1.2,2.9,1.8,2.9,1.9c1.1,0.9,1.6,1.9,1.6,3.2v0.7c0,1.8-0.5,3.1-1.4,4c-0.8,0.7-2,1.1-3.5,1.1   c-1.3,0-2.4-0.3-3.3-1c-1-0.7-1.5-1.7-1.5-3V43.2L304.9,43.2z M317.1,48.6v-3.7h3.6v3.7H317.1L317.1,48.6z M322.7,48.6l3.5-16.2   h4.6l3.5,16.2h-3.8l-0.5-3.1h-3l-0.5,3.1H322.7L322.7,48.6z M327.5,42.6h2.2l-1.1-7.3L327.5,42.6L327.5,42.6z M336.4,48.6v-3.7h3.6   v3.7H336.4L336.4,48.6z M180.8,20l0.4-0.2h-2.7c-0.2,0.1-0.5,0.3-0.7,0.4l-0.8,0.4c-0.3,0.2-0.6,0.3-0.9,0.4l-1.4,0.5l1.6-0.3   l0.7-0.1l0.7-0.1l0.6-0.2l0.6-0.2l0.6-0.2l0.6-0.2l0.5-0.2L180.8,20L180.8,20z M191.6,1.1L191.6,1.1c0-0.1,0-0.1-0.1-0.2   c0,0-0.1-0.1-0.1-0.1c0,0-0.1-0.1-0.1-0.1c-0.1-0.1-0.1-0.1-0.2-0.1c-0.1,0-0.1-0.1-0.2-0.1c-0.1,0-0.2-0.1-0.3-0.1   c-0.1,0-0.1-0.1-0.2-0.1c-0.1,0-0.2-0.1-0.3-0.1c-0.1,0-0.2-0.1-0.3-0.1h-10.2c-0.1,0-0.1,0-0.2,0c-0.2,0-0.3,0.1-0.5,0.1   c-0.1,0-0.1,0.1-0.2,0.1c-0.1,0-0.2,0.1-0.2,0.1c-0.1,0-0.2,0.1-0.2,0.2l-0.1,0.1c0,0-0.1,0.1-0.1,0.1l0,0l-0.1,0.1l0,0.1l0,0.1   l0,0l0,0l0,0.1l-0.1,3.6l5.5,2.2v0.3h2.9V6.9l5.6-2.2L191.6,1.1L191.6,1.1L191.6,1.1z M214.1,8.2c0.1-0.1,0.3-0.2,0.4-0.3l0.7-0.6   l0.3-0.3c-0.8,0-1.6,0.1-2.5,0.1l-3.8,0.1l-0.6,0l-0.6,0l-0.6,0l-0.6,0.1l-0.6,0.1c-0.3,0-0.5,0.1-0.8,0.1l-0.5,0.1l-0.5,0.1   L204.1,8L203.9,8l-0.4,0.2l-0.7,0.4l0.2,0l1.2-0.2l1.4-0.1c0.5,0,0.9-0.1,1.4-0.1l0.3,0c0.6,0,1.3,0,1.9,0c1,0,1.9,0,2.9,0   C212.8,8.2,213.5,8.2,214.1,8.2L214.1,8.2z M202,10.2l-0.2,0.4l-0.3,0.7c0.4,0,0.7-0.1,1.1-0.1l1-0.1l1.6-0.1c0.7,0,1.5,0,2.2,0   l2.6,0.1l1.6,0.1c0.2-0.2,0.4-0.3,0.7-0.5c0.1-0.1,0.1-0.1,0.2-0.2l0.4-0.3c0.3-0.3,0.6-0.7,0.9-1.1c-1.3-0.1-2.6-0.1-3.9-0.1   c-0.6,0-1.1,0-1.7,0c-0.5,0-1,0-1.6,0.1l-1.3,0.1l-0.8,0.1l-0.6,0.1l-0.6,0.1l-0.6,0.1l-0.3,0.1C202.2,9.7,202.1,10,202,10.2   L202,10.2z M202.1,14.2c1.2,0,2.3,0,3.5,0c0.8,0,1.6,0.1,2.3,0.1l0.1-0.1l0.3-0.2l0.3-0.2l0.3-0.2l0.3-0.2l0.3-0.2l0.3-0.2l0.2-0.2   l0.2-0.2l0.2-0.3l0.4-0.6l-0.2,0c-1.1,0-2.2-0.1-3.3-0.1c-1.1,0-2.3,0-3.4,0.1l-1.7,0.1l-1.2,0.1l-0.4,0.7l-1.1,1.6   C200.4,14.3,201.2,14.2,202.1,14.2L202.1,14.2z M202.2,18.1l0.7-0.2l0.4-0.1l0.4-0.2l0.4-0.2l0.4-0.2l0.4-0.2l0.2-0.1l0.3-0.3   l0.3-0.3l0.1-0.1l0.3-0.3l0.3-0.3c0.1-0.1,0.2-0.3,0.3-0.4c0,0,0.1-0.1,0.1-0.1c-1,0-2-0.1-3-0.1l-1.3,0c-0.1,0-0.1,0-0.2,0   c-0.9,0-1.8,0.1-2.7,0.2c-0.2,0-0.3,0-0.5,0.1l0,1.9l0,0.3c0.9,0.4,1.6,0.6,2.8,0.8L202.2,18.1L202.2,18.1z M230.2,4.9   c-0.2,0.3-0.5,0.5-0.7,0.7c-0.2,0.2-0.4,0.3-0.6,0.5l-0.3,0.2l-0.3,0.2l-0.3,0.2l-0.3,0.2L227.6,7l-3.8,1.1c-0.2,0-0.3,0.1-0.5,0.1   c-0.5,0.1-1.1,0.3-1.6,0.4l-0.9,0.2L220,9l-0.9,0.2l-0.9,0.2l-0.9,0.1l-0.9,0.1l-0.9,0.1l-0.9,0.1L214,9.8l0.2-0.3l0.3-0.5l0.2-0.3   l1.2-0.9l0.3-0.3c0.2-0.2,0.3-0.4,0.5-0.5l1.9-0.1l1.4-0.1l1.3-0.1l1.2-0.1l1.1-0.2l1-0.2l1-0.2l0.9-0.2l0.8-0.2l0.8-0.2l0.7-0.2   l0.7-0.2l0.6-0.2l0.3-0.1C230.3,4.8,230.3,4.8,230.2,4.9L230.2,4.9z M210.6,13.3c0.3-0.3,0.6-0.7,0.8-1c0.1-0.1,0.2-0.3,0.3-0.4   c0.2-0.2,0.5-0.3,0.7-0.5l0.2-0.2c0.1-0.1,0.3-0.2,0.4-0.4l0.2-0.2l0.8,0l1-0.1l1-0.1l0.9-0.1l0.5-0.1l0.9-0.1l0.9-0.2l0.9-0.2   l0.9-0.2l0.9-0.2c0.5-0.1,1.1-0.3,1.6-0.4l0.3-0.1l2.9-0.8l-0.1,0.1l-0.4,0.5L226,9l-0.4,0.4l-0.4,0.4l-0.5,0.4l-0.5,0.4l-0.5,0.3   l-0.5,0.3l-0.5,0.3l-0.6,0.3l-0.6,0.3l-0.6,0.3l-0.6,0.2l-0.6,0.2l-0.6,0.2l-0.6,0.2l-0.7,0.2l-0.7,0.1l-0.7,0.1l-0.7,0.1l-0.7,0.1   l-0.7,0.1l-0.7,0.1l-0.7,0l-0.7,0l-0.7,0l-0.7,0l-0.7,0l-0.3,0C210.1,13.8,210.4,13.5,210.6,13.3L210.6,13.3z M201.1,5.6l-0.4,0.2   l-0.3,0.2l-0.3,0.3l-0.2,0.1l-0.3,0.3l-0.3,0.3L199,7.4l-0.3,0.3l-0.3,0.5l0.1,0.2l0.2,0.4l0.1,0.3l0.1,0.3l0,0.2l0,0.3v3.9   l0.3-0.3l0.3-0.5l0.2-0.3l0.5-0.9l0.3-0.5l0.1-0.3l0.5-1c0.1-0.1,0.1-0.3,0.2-0.4l0.2-0.6l0.1-0.2l0.1-0.2l0.1-0.2l0.1-0.1l0.1-0.1   l0.1-0.1l0.2-0.1l0.2-0.1l0.2-0.1l0.2-0.1l0.2-0.1l0.2-0.1l0.2-0.1l0.2-0.1l0.5-0.2l0.5-0.1l0.5-0.1l0.6-0.1l0.3,0l0.6-0.1l0.6-0.1   l0.6,0l0.6,0l0.6,0l1.4,0l1.3,0l1.3,0l1.2,0l1.2-0.1l1.1-0.1l1.1-0.1l1-0.1l1-0.1l0.9-0.1l0.9-0.1l0.8-0.1l0.8-0.1l0.7-0.1l0.7-0.1   l0.7-0.1l0.6-0.1l0.6-0.1l0.6-0.1l0.5-0.1l0.5-0.1l0.5-0.1l0.5-0.1c0.4-0.1,0.8-0.3,1.2-0.5c-0.6,0.1-1.2,0.1-1.7,0.2L227,4.2   l-1.7,0.1l-1.7,0.1c-1.5,0.1-2.9,0.1-4.4,0.2c-1.5,0-3,0.1-4.5,0.1l-3,0l-5.9,0h-2l-0.2,0l-0.2,0l-0.2,0l-0.2,0L202.7,5L202.5,5   L202,5.2l-0.4,0.2l-0.4,0.2L201.1,5.6L201.1,5.6z M220.3,13.4l-0.4,0.2l-0.4,0.1l-0.4,0.1l-0.4,0.1l-0.4,0.1l-0.4,0.1l-0.4,0.1   l-0.4,0.1l-0.4,0.1l-0.9,0.1l-0.4,0.1l-0.9,0.1l-0.9,0.1l-0.9,0l-0.8,0c-0.6,0-1.3,0-1.9,0c-0.3,0-0.6,0-0.9,0l-1.3,0.7l-0.2,0.4   l-0.2,0.2l-0.3,0.4l-0.2,0.2l-0.2,0.2l-0.2,0.2l-0.2,0.2l-0.2,0.2l-0.2,0.1l-0.2,0.1l-0.2,0.1l-0.4,0.2l-0.2,0.1l-0.4,0.2l-0.4,0.2   l-0.4,0.1l0.7,0.1l0.9,0.1l0.9,0.1l0.9,0l0.8,0l0.8,0l0.8,0l0.8,0l0.8-0.1l0.8-0.1l0.8-0.1l0.7-0.1l0.7-0.2l0.7-0.2l0.7-0.2   l0.6-0.2l0.6-0.2l0.6-0.3l0.6-0.3l0.5-0.3l0.5-0.3l0.5-0.4l0.5-0.4l0.4-0.4l0.4-0.4l0.4-0.4l0.3-0.5l0.3-0.5l0.1-0.2l-0.4,0.2   l-0.4,0.2L220.3,13.4L220.3,13.4z M196.1,19.8h-3.7l0.2,0.1l0.5,0.2l0.4,0.2l0.4,0.2l0.4,0.1l0.4,0.1l0.4,0.1l0.4,0.1l0.4,0.1   l0.4,0l0.4,0l0.3,0l0.3,0l0.3,0L198,21l0.3-0.1l0.3-0.1l0.3-0.1l0.3-0.1l0.3-0.2l0.2-0.2l0.2-0.2l0.2-0.2l0.2-0.2l0.2-0.2l0.2-0.2   l0.2-0.3l0.1-0.1c-0.8-0.2-1.5-0.4-2.2-0.7l0,0l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.2l-0.2,0.2l-0.2,0.2l-0.2,0.1l-0.2,0.1l-0.2,0.1   l-0.2,0.1l-0.2,0.1l-0.2,0.1l-0.2,0l-0.2,0L196.1,19.8L196.1,19.8z M196.2,7.6l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0   l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0.1,0.1l0,0.1l0,0.1   l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1V17l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1   l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1L197,19l-0.1,0l-0.1,0l-0.1,0l-0.1,0   l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0h-22.8l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1-0.1l-0.1-0.1   l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l0-0.1l0-0.1l0-0.1   l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1V9.9l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1   l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1L172,8l0.1-0.1l0.1-0.1l0.1-0.1l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0l0.1,0   l0.1,0H196L196.2,7.6L196.2,7.6z M155.3,8.2c-0.1-0.1-0.3-0.2-0.4-0.3l-0.7-0.6l-0.3-0.3c0.8,0,1.6,0.1,2.5,0.1l3.8,0.1l0.6,0   l0.6,0l0.6,0l0.6,0.1l0.6,0.1c0.3,0,0.5,0.1,0.8,0.1l0.5,0.1l0.5,0.1l0.4,0.2l0.2,0.1l0.4,0.2l0.7,0.4l-0.2,0l-1.2-0.2l-1.4-0.1   c-0.5,0-0.9-0.1-1.4-0.1l-0.3,0c-0.6,0-1.3,0-1.9,0c-1,0-1.9,0-2.9,0C156.5,8.2,155.9,8.2,155.3,8.2L155.3,8.2z M167.4,10.2   l0.2,0.4l0.3,0.7c-0.4,0-0.7-0.1-1.1-0.1l-1-0.1l-1.6-0.1c-0.7,0-1.5,0-2.2,0l-2.6,0.1l-1.6,0.1c-0.2-0.2-0.4-0.3-0.7-0.5   c-0.1-0.1-0.1-0.1-0.2-0.2l-0.4-0.3c-0.3-0.3-0.6-0.7-0.9-1.1c1.3-0.1,2.6-0.1,3.9-0.1c0.6,0,1.1,0,1.7,0c0.5,0,1,0,1.6,0.1   l1.3,0.1l0.8,0.1l0.6,0.1l0.6,0.1l0.6,0.1l0.3,0.1C167.2,9.7,167.3,10,167.4,10.2L167.4,10.2z M167.3,14.2c-1.2,0-2.3,0-3.5,0   c-0.8,0-1.6,0.1-2.3,0.1l-0.1-0.1l-0.3-0.2l-0.3-0.2l-0.3-0.2l-0.3-0.2l-0.3-0.2l-0.3-0.2l-0.2-0.2l-0.2-0.2l-0.2-0.3l-0.4-0.6   l0.2,0c1.1,0,2.2-0.1,3.3-0.1c1.1,0,2.3,0,3.4,0.1l1.7,0.1l1.2,0.1l0.4,0.7l1.1,1.6C169,14.3,168.1,14.2,167.3,14.2L167.3,14.2z    M167.1,18.1l-0.7-0.2l-0.4-0.1l-0.4-0.2l-0.4-0.2l-0.4-0.2l-0.4-0.2l-0.2-0.1l-0.3-0.3l-0.3-0.3l-0.1-0.1l-0.3-0.3l-0.3-0.3   c-0.1-0.1-0.2-0.3-0.3-0.4c0,0-0.1-0.1-0.1-0.1c1,0,2-0.1,3-0.1l1.3,0c0.1,0,0.1,0,0.2,0c0.9,0,1.8,0.1,2.7,0.2   c0.2,0,0.3,0,0.5,0.1l0,1.9l0,0.3c-0.9,0.4-1.6,0.6-2.8,0.8L167.1,18.1L167.1,18.1z M139.1,4.9c0.2,0.3,0.5,0.5,0.7,0.7   c0.2,0.2,0.4,0.3,0.6,0.5l0.3,0.2l0.3,0.2l0.3,0.2l0.3,0.2l0.1,0.1l3.8,1.1c0.2,0,0.3,0.1,0.5,0.1c0.5,0.1,1.1,0.3,1.6,0.4l0.9,0.2   l0.9,0.2l0.9,0.2l0.9,0.2l0.9,0.1l0.9,0.1l0.9,0.1l0.9,0.1l0.9,0.1l-0.2-0.3l-0.3-0.5l-0.2-0.3l-1.2-0.9l-0.3-0.3   c-0.2-0.2-0.3-0.4-0.5-0.5l-1.9-0.1l-1.4-0.1l-1.3-0.1l-1.2-0.1l-1.1-0.2l-1-0.2l-1-0.2l-0.9-0.2L142,5.7l-0.8-0.2l-0.7-0.2   L139.9,5l-0.6-0.2L139,4.7C139,4.8,139.1,4.8,139.1,4.9L139.1,4.9z M158.7,13.3c-0.3-0.3-0.6-0.7-0.8-1c-0.1-0.1-0.2-0.3-0.3-0.4   c-0.2-0.2-0.5-0.3-0.7-0.5l-0.2-0.2c-0.1-0.1-0.3-0.2-0.4-0.4l-0.2-0.2l-0.8,0l-1-0.1l-1-0.1l-0.9-0.1l-0.5-0.1l-0.9-0.1L150,10   l-0.9-0.2l-0.9-0.2l-0.9-0.2c-0.5-0.1-1.1-0.3-1.6-0.4l-0.3-0.1L142.5,8l0.1,0.1l0.4,0.5l0.4,0.4l0.4,0.4l0.4,0.4l0.5,0.4l0.5,0.4   l0.5,0.3l0.5,0.3l0.5,0.3l0.6,0.3l0.6,0.3l0.6,0.3l0.6,0.2l0.6,0.2l0.6,0.2l0.6,0.2l0.7,0.2l0.7,0.1l0.7,0.1l0.7,0.1l0.7,0.1   l0.7,0.1l0.7,0.1l0.7,0l0.7,0l0.7,0l0.7,0l0.7,0l0.3,0C159.2,13.8,159,13.5,158.7,13.3L158.7,13.3z M168.3,5.6l0.4,0.2l0.3,0.2   l0.3,0.3l0.2,0.1l0.3,0.3l0.3,0.3l0.3,0.3l0.3,0.3l0.3,0.5l-0.1,0.2l-0.2,0.4L170.5,9l-0.1,0.3l0,0.2l0,0.3v3.9l-0.3-0.3l-0.3-0.5   l-0.2-0.3l-0.5-0.9l-0.3-0.5l-0.1-0.3l-0.5-1c-0.1-0.1-0.1-0.3-0.2-0.4l-0.2-0.6l-0.1-0.2l-0.1-0.2l-0.1-0.2l-0.1-0.1l-0.1-0.1   l-0.1-0.1L166.9,8l-0.2-0.1l-0.2-0.1l-0.2-0.1l-0.2-0.1l-0.2-0.1l-0.2-0.1l-0.2-0.1L165,7.1l-0.5-0.1l-0.5-0.1l-0.6-0.1l-0.3,0   l-0.6-0.1l-0.6-0.1l-0.6,0l-0.6,0l-0.6,0l-1.4,0l-1.3,0l-1.3,0l-1.2,0l-1.2-0.1l-1.1-0.1l-1.1-0.1l-1-0.1l-1-0.1l-0.9-0.1l-0.9-0.1   l-0.8-0.1l-0.8-0.1l-0.7-0.1l-0.7-0.1L144,5.3l-0.6-0.1L142.8,5l-0.6-0.1l-0.5-0.1l-0.5-0.1l-0.5-0.1l-0.5-0.1   c-0.4-0.1-0.8-0.3-1.2-0.5c0.6,0.1,1.2,0.1,1.7,0.2l1.6,0.1l1.7,0.1l1.7,0.1c1.5,0.1,2.9,0.1,4.4,0.2c1.5,0,3,0.1,4.5,0.1l3,0   l5.9,0h2l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0.1l0.4,0.1l0.4,0.2l0.4,0.2L168.3,5.6L168.3,5.6z M149,13.4l0.4,0.2l0.4,0.1   l0.4,0.1l0.4,0.1l0.4,0.1l0.4,0.1l0.4,0.1l0.4,0.1l0.4,0.1l0.9,0.1l0.4,0.1l0.9,0.1l0.9,0.1l0.9,0l0.8,0c0.6,0,1.3,0,1.9,0   c0.3,0,0.6,0,0.9,0l1.3,0.7l0.2,0.4l0.2,0.2l0.3,0.4l0.2,0.2l0.2,0.2l0.2,0.2l0.2,0.2l0.2,0.2l0.2,0.1l0.2,0.1l0.2,0.1l0.4,0.2   l0.2,0.1l0.4,0.2l0.4,0.2l0.4,0.1l-0.7,0.1l-0.9,0.1l-0.9,0.1l-0.9,0l-0.8,0l-0.8,0l-0.8,0l-0.8,0l-0.8-0.1l-0.8-0.1l-0.8-0.1   l-0.7-0.1l-0.7-0.2l-0.7-0.2l-0.7-0.2l-0.6-0.2l-0.6-0.2l-0.6-0.3l-0.6-0.3l-0.5-0.3l-0.5-0.3l-0.5-0.4l-0.5-0.4l-0.4-0.4l-0.4-0.4   l-0.4-0.4l-0.3-0.5l-0.3-0.5l-0.1-0.2l0.4,0.2l0.4,0.2L149,13.4L149,13.4z M173.2,19.8h3.7l-0.2,0.1l-0.5,0.2l-0.4,0.2l-0.4,0.2   l-0.4,0.1l-0.4,0.1l-0.4,0.1l-0.4,0.1l-0.4,0.1l-0.4,0l-0.4,0l-0.3,0l-0.3,0l-0.3,0l-0.3-0.1l-0.3-0.1l-0.3-0.1l-0.3-0.1l-0.3-0.1   l-0.3-0.2l-0.2-0.2l-0.2-0.2l-0.2-0.2l-0.2-0.2l-0.2-0.2l-0.2-0.2l-0.2-0.3l-0.1-0.1c0.8-0.2,1.5-0.4,2.2-0.7l0,0l0.1,0.2l0.1,0.2   l0.1,0.1l0.1,0.2l0.2,0.2l0.2,0.2l0.2,0.1l0.2,0.1l0.2,0.1l0.2,0.1l0.2,0.1l0.2,0.1l0.2,0l0.2,0L173.2,19.8L173.2,19.8z    M187.7,10.6c0.2,0,0.4,0,0.6,0l0.1,0l0.1,0l0,0l0,0l0,0l0,0l0,0l0,0.1l0,0l0,0.1c0,0.1,0,0.1,0,0.2l0,4.6l0,0.2l0,0.1   c0,0,0,0.1,0,0.1c0,0,0,0,0,0.1l0,0l0,0l0,0l0,0l0,0l-0.1,0l-0.1,0c-0.2,0-0.4,0-0.5,0v1.3h4.2v-1.3c-0.2,0-0.4,0-0.6,0   c-0.1,0-0.2,0-0.3,0c0,0,0,0-0.1,0l0,0c0,0,0,0,0-0.1l0,0l0-0.1l0-0.1l0-0.1l0-0.9l1.2-1l1.5,2.1c0,0.1,0.1,0.1,0.1,0.2   c0,0,0,0,0,0c0,0,0,0,0,0c0,0-0.1,0-0.1,0c-0.2,0-0.4,0-0.7,0v1.3h4.3v-1.3l-0.3,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0l0,0l0,0l0,0   l0,0l0,0l-0.1-0.1l-0.1-0.1l-0.1-0.2l-2.4-3.2l2-1.7l0.1-0.1c0.1-0.1,0.3-0.2,0.4-0.3c0.1,0,0.2,0,0.3,0l0.3,0V9.3h-3.9v1.3l0.5,0   c0.1,0,0.1,0,0.2,0c0,0,0,0,0.1,0c0,0,0,0,0,0.1c0,0,0,0,0,0.1c0,0.1-0.1,0.1-0.1,0.2l-2.5,2.3l0-2.1l0-0.1l0-0.1l0,0l0,0l0,0l0,0   l0,0l0.1,0l0,0c0.1,0,0.2,0,0.3,0c0.2,0,0.3,0,0.5,0V9.3h-4.2V10.6L187.7,10.6z M180,10.6l0.6,0c0,0,0.1,0,0.1,0l0.1,0l0,0l0,0   c0,0,0,0,0,0.1l0,0l0,0.1l0,0.1l0,0.1c0,0.1,0,0.1,0,0.2l0,4.8l0,0.1l0,0.1l0,0.1l0,0c0,0,0,0,0,0.1c0,0,0,0-0.1,0l-0.1,0l-0.1,0   l-0.1,0l-0.1,0l-0.5,0v1.3h6.5l1.1-3.2l-1.2-0.4l-0.1,0.3c0,0.1-0.1,0.2-0.1,0.3l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.1l-0.1,0.1   c0,0.1-0.1,0.1-0.1,0.2c0,0.1-0.1,0.1-0.2,0.1l-0.1,0.1c-0.1,0-0.1,0.1-0.2,0.1l-0.1,0.1l-0.1,0.1l-0.1,0.1l-0.1,0l-0.1,0l-0.1,0   c-0.1,0-0.2,0-0.2,0c-0.1,0-0.2,0-0.3,0c-0.2,0-0.3,0-0.5,0c-0.1,0-0.2,0-0.2-0.1l0,0c0-0.1,0-0.2,0-0.3l0-4.8l0-0.1l0-0.1l0-0.1   l0,0l0,0l0,0l0,0c0,0,0,0,0.1,0c0.1,0,0.2,0,0.3,0l0.5,0V9.3H180V10.6L180,10.6z M176,10.8l0.2,0c0.1,0,0.1,0,0.2,0l0.1,0l0.1,0   l0.1,0l0.1,0l0.1,0.1l0,0l0.1,0l0,0l0,0l0,0l0,0l0,0l0,0l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1   l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l0,0.1l-0.1,0.1l-0.1,0l-0.1,0l-0.1,0l-0.1,0l-0.1,0c0,0-0.1,0-0.1,0c-0.1,0-0.1,0-0.2,0   c-0.1,0-0.1,0-0.2,0c-0.1,0-0.2,0-0.3,0c-0.3,0-0.5,0-0.8,0v-2.2H176L176,10.8z M171.9,10.6l0.5,0l0.1,0c0,0,0.1,0,0.1,0l0,0   c0,0,0,0,0.1,0c0,0,0,0,0,0.1l0,0l0,0l0,0.1l0,0.1c0,0.1,0,0.2,0,0.2l0,4.6l0,0.1l0,0.1l0,0.1l0,0l0,0l0,0l0,0l0,0l0,0l-0.1,0   l-0.1,0c-0.1,0-0.2,0-0.2,0h-0.4v1.3h4.2v-1.3l-0.6,0l-0.1,0c0,0-0.1,0-0.1,0l-0.1,0c0,0,0,0-0.1,0c0,0,0,0,0-0.1c0,0,0,0,0-0.1   c0-0.1,0-0.2,0-0.3l0-1.5h1.3l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0l0.1,0l0.1,0l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1   l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0.1-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0-0.1   l0-0.1c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1-0.1-0.2c0-0.1,0-0.1-0.1-0.2l0-0.1l-0.1-0.1l-0.1-0.1   l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1l-0.1-0.1c-0.1,0-0.1-0.1-0.2-0.1c-0.1,0-0.1-0.1-0.2-0.1   c-0.1,0-0.1-0.1-0.2-0.1c-0.1,0-0.1-0.1-0.2-0.1c-0.1,0-0.1,0-0.2-0.1c-0.1,0-0.2,0-0.2-0.1c-0.1,0-0.2,0-0.2,0c-0.1,0-0.2,0-0.3,0   c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.3,0h-4.5V10.6L171.9,10.6z M180.8,20.7l-0.6,0.2l-0.6,0.2l-0.6,0.2l-0.6,0.2l-0.7,0.2l-0.7,0.1   l-0.7,0.1l-0.7,0.1l-0.7,0.1l-0.7,0.1l-0.7,0.1l-0.8,0.1l-0.8,0.1l-0.8,0.1l-0.8,0.1l-0.7,0l-0.7,0l-0.7,0l-1.4,0l-1.5,0   c-0.8,0-1.6,0-2.5,0c-0.2,0-0.4,0-0.7,0v1.4h45v-1.4c-0.7,0-1.5,0-2.2,0c-0.8,0-1.5,0-2.3,0l-1.4,0l-0.7,0l-0.7,0l-0.8,0l-0.8-0.1   l-0.8-0.1l-0.8-0.1l-0.8-0.1l-0.8-0.1l-0.7-0.1l-0.7-0.1L193,22l-0.7-0.1l-0.7-0.1l-0.7-0.2l-0.6-0.2l-0.6-0.2l-0.6-0.2l-0.6-0.2   l-0.5-0.2l-0.5-0.3l-0.5-0.3l-0.4-0.3h-4.1l-0.4,0.3l-0.5,0.3l-0.5,0.3L180.8,20.7L180.8,20.7z M188.6,20l-0.4-0.2h2.7   c0.2,0.1,0.5,0.3,0.7,0.4l0.8,0.4c0.3,0.2,0.6,0.3,0.9,0.4l1.4,0.5l-1.6-0.3l-0.7-0.1l-0.7-0.1l-0.6-0.2l-0.6-0.2l-0.6-0.2   l-0.6-0.2l-0.5-0.2L188.6,20L188.6,20z"></path>
+</g>
+</svg>
+                    </a>
+                </h1>
+            </div>
+            
+    <div class="header-nav header-nav--connection box">
+        <h2>
+            Rozkład jazdy dla stacji:
+            <span lang="pl-PL">WARSZAWA OCHOTA</span>
+            
+        <button type="button" class="icon-plk-invalid btn btn--sm icon-plk-help-catalog btn--header btnWozek btn--outline btn-link abt-n-db" data-window-type="wheelchair" data-wheelchair="Warszawa Ochota#Dostęp na peron za pomocą platformy przyschodowej|Na peron 1, (obsługiwane przez przeszkolonych pracowników)^|#" title="Po kliknięciu w przycisk pojawi się popup z informacjami o udogodnieniach dla osób niepełnosprawnych na stacji Warszawa Ochota.">
+            <span class="visuallyhidden">Udogodnienia dla niepełnosprawnych</span>
+        </button>
+
+            <span class="icon-plk-help icon-infotip-onpage icon--sm abt-n-db abt-focusable" title="Wykaz relacji to lista relacji oferowanych przez przewoźników, których trasa przebiega przez wskazaną przez Ciebie stację w danej dobie. Kliknij na końcu wiersza, aby przejść od listy połączeń dla relacji widocznej w ostatniej kolumnie." tabindex="0" data-role="tooltip">
+                <span class="visuallyhidden">Informacja - Wykaz relacji to lista relacji oferowanych przez przewoźników, których trasa przebiega przez wskazaną przez Ciebie stację w danej dobie. Kliknij na końcu wiersza, aby przejść od listy połączeń dla relacji widocznej w ostatniej kolumnie.</span>
+            </span>
+
+        </h2>
+        <div class="nav-tab">
+            <button class="btn nav-tab__toggle icon-arrow-down abt-n-db" data-js-target=".nav-tab, parent" data-js-trigger="nav-tab" data-js-activemsg="Rozwinięto menu podstron katalogu stacji." data-js-deactivemsg="Zwinięto menu podstron katalogu stacji." title="Zwiń/rozwiń menu zawierające dostępne podstrony katalogu stacji.">
+                <span class="visuallyhidden">Menu podstron</span>
+            </button>
+            <ul class="list-inline">
+                    <li>
+                        <a class="abt-n-db loadScr" href="https://portalpasazera.pl/KatalogStacji/Wyszukiwarka?stacja=WARSZAWA+OCHOTA" title="Przejdź na stronę zawierającą uproszczoną wyszukiwarkę połaczeń dla wybranej stacji.">
+                            <span class="visuallyhidden">Nieaktywna zakładka </span>Wyszukiwanie połączeń
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a class="abt-n-db loadScr" href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA" title="Przejdź na stronę zawierającą wykaz relacji przebiegających przez wybraną stację.">
+                            <span class="visuallyhidden">Aktywna zakładka </span> Wykaz relacji powiązanych
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+
+    
+    <script type="text/javascript">$.ajaxSetup({ headers: { '6ef09a': 'c5424f' } });</script>
+    <script type="text/javascript">$.ajaxSetup({ headers: { '527f1f': '351dee' } });</script>
+    <div id="statusNotifier" class="visuallyhidden" style="display: none;" role="alert">
+    </div>
+    <div id="accessible-body">
+        
+
+
+
+<script type="text/javascript">
+    var urlSearchConnections = '/Wyszukiwarka/WyszukajPolaczenia';
+    var urlSearchResults = '/WynikiWyszukiwania';
+    var UrlLang = '';
+    var letterCounter = 0;
+    
+    var etk01 = 'Wpisz nazwę stacji';
+    var etk02 = 'Wybierz datę';
+    var etk03 = 'Utrudnienia, które wystąpiły na trasie pociągu';
+    var etk04 = 'Informacje o kursowaniu komunikacji zastępczej';
+    var etk05 = 'Utrudnienia, które mogą spowodować opóźnienie pociągu';
+    var etk06 = 'Utrudnienia wtórne, które są konsekwencją występujących na trasie zakłóceń w ruchu i mają wpływ na aktualne opóźnienie pociągu';
+    var etk07 = 'Zamknięto okno informacji o udogodnieniach dla niepełnosprawnych.';
+    var etk08 = 'Zamknięto okno utrudnień.';
+    var etk09 = 'Podaj nazwę stacji';
+    var etk10 = 'Zmień wybraną stację';
+    var etk11 = 'Wyjazd z';
+    var etk12 = 'Przyjazd do';
+    var etk13 = 'Data';
+    var etk14 = 'Godzina';
+    var etk15 = 'Awarie';
+
+    var TabID = "KS";
+    var udogodnienia01 = 'Dostęp na peron za pomocą pochylni/podjazdu';
+    var udogodnienia02 = 'Dostęp na peron za pomocą platformy przyschodowej';
+    var udogodnienia03 = 'Dostęp na peron za pomocą windy/platformy pionowej';
+    var udogodnienia04 = 'Dojście na peron w poziomie szyn z asystą opiekuna lub osoby towarzyszącej';
+    var udogodnienia05 = 'Dojście na peron przy udziale pracownika ochrony - pomoc/asysta całodobowa';
+    var udogodnienia06 = 'Dojście na peron przy udziale pracownika (osoby udzielającej pomocy) w ramach zgłoszenia przejazdu 48h';
+    var udogodnienia07 = 'Inne dojście na peron';
+
+    
+    var _Art = {
+        'bcCw': 'Zamknięto okno informacji o wagonach bezpośrednich.',
+        'dfCw': 'Zamknięto okno utrudnień.',
+        'inCw': 'Zamknięto okno informacji.',
+        'skCw': 'Zamknięto okno skomunikowań.',
+        'siCw': 'Zamknięto okno informacji o stacji.',
+        'btCw': 'Zamknięto okno zakupu biletu.',
+        'erCw': 'Zamknięto okno błędu.',
+        'shCw': 'Zamknięto okno formularza udostępniania połączenia.',
+        'lgCw': 'Zamknięto okno legendy mapy.'
+    };
+</script>
+
+
+<div class="main box">
+    <div class="delays-table-search">
+        <div class="param-error sp" role="alert">Wpisz nazwę stacji</div>
+        <form action="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1#" onsubmit="return false;">
+            <div id="errorContainer" class="visuallyhidden" style="display: none;" role="alert"></div>
+            <div class="row">
+                <div class="col-12 grid-phone-add-gutter-bottom">
+                    <div class="param-error s"></div>
+                    <div class="fieldset-group fieldset-group--wide box--flex">
+                        <div class="input-wrapper">
+                            <div class="picker-wrapper">
+                                <span tabindex="-1" role="presentation" class="k-widget k-autocomplete k-header field-with-floating-label k-state-default" style=""><input type="text" class="field-with-floating-label k-input" id="katalogStacjiTextBox" name="katalogStacjiTextBox" aria-label="Zmień wybraną stację - Pole opcjonalne - Wpisz nazwę stacji aby zmienić wybór i wyszukać katalog połączeń dla innej stacji, wyszukanie nastąpi po wciśnięciu przycisku ENTER. - Podpowiedzi zostaną wyświetlone po wpisaniu pierwszego znaku. Użyj strzałek GÓRA, DÓŁ by przechodzić po kolejnych wynikach. Użyj przycisku ENTER by zatwierdzić wybór stacji." data-role="autocomplete" autocomplete="off" role="textbox" aria-haspopup="true" aria-disabled="false" aria-readonly="false" aria-owns="katalogStacjiTextBox_listbox" aria-autocomplete="list" style="width: 100%;"><span unselectable="on" class="k-icon k-i-close" title="clear" role="button" tabindex="-1"></span><span class="k-icon k-i-loading" style="display:none"></span></span>
+                            </div>
+                            <label class="floating-label">Zmień wybraną stację</label>
+                            <span class="icon-plk-start icon--md"></span>
+                        </div>
+                        <span class="icon-plk-help icon--md icon-infotip abt-focusable" title="Możesz zmienić stację, której listę relacji powiązanych chcesz wyświetlić. System podpowiada nazwy stacji po wpisaniu pierwszego znaku i zmienia po wprowadzeniu każdego kolejnego znaku. Jeśli rozpoczniesz wpisywanie stacji a nie wybierzesz żadnej stacji z podpowiadanej listy system automatycznie przypisze pierwszą stację z listy." tabindex="0" data-role="tooltip">
+                            <span class="visuallyhidden">Informacja - Możesz zmienić stację, której listę relacji powiązanych chcesz wyświetlić. System podpowiada nazwy stacji po wpisaniu pierwszego znaku i zmienia po wprowadzeniu każdego kolejnego znaku. Jeśli rozpoczniesz wpisywanie stacji a nie wybierzesz żadnej stacji z podpowiadanej listy system automatycznie przypisze pierwszą stację z listy.</span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="table-search-info">
+        <div class="table-search-info__results abt-focusable" tabindex="0">
+            <p class="table-search-info__num">Liczba wyszukań: <strong>11</strong></p>
+        </div>
+    </div>
+
+    <div class="catalog-table box">
+            <div class="row catalog-table__heading hidden--phone">
+                <div class="col-1">
+                    <span class="item-label">Odjazd</span>
+                </div>
+                <div class="col-1">
+                    <span class="item-label">Peron</span>
+                </div>
+                <div class="col-1">
+                    <span class="item-label">Tor</span>
+                </div>
+                <div class="col-2">
+                    <span class="item-label">Przewoźnik</span>
+                </div>
+                <div class="col-2">
+                    <span class="item-label">Pociąg</span>
+                </div>
+                <div class="col-1">
+                    <span class="item-label">Nr pociągu</span>
+                </div>
+                <div class="col-2">
+                    <span class="item-label">Relacja</span>
+                </div>
+                <div class="col-2">
+                    &nbsp;
+                </div>
+            </div>
+
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 22:37</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">1</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value">3</strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">11635</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Warszawa Zachodnia</span> - <span lang="pl-PL">Łuków</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=TfHEFj8NttwWH0OvROJUAZz6HfXoKnYamP7CaPvIzByscc2Fh49Ab7ceisYjxscc2BbNhvRJQCLB5scc2F3W9scc2FC8tscc2BaZ9SCRrW5MLdtwmFtscc2BPmNysYM3M0MyDXi9JnPKyaeQBscc2B9EY9xV9EAuenscc2B7mOHpF43nF0brvXNLtW0mq9zFRJEalCzEKBA=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 22:40</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">1</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value">4</strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">93988</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Mińsk Mazowiecki</span> - <span lang="pl-PL">Skierniewice</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=Qq0Q0fgJO0cidVxX5wuJC0gwsxU2gF643Ns0EPu0KYvtIqvAoBrhQDY0bAnThQlrscc2Bb47w7fZh55NnydTnz9h5NUVscc2B0Xk5ig9OkAaAuG97bAnq76Of6hjTYRbSqC3hejHy4T0a53N5RKFeRXyPgolasQzWy7Dupscc2Bz2P4LtcAZFaU=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 22:42</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">1</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value">3</strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">12721</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Łowicz Główny</span> - <span lang="pl-PL">Dęblin</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=x08Xwh7tBscc2FHiUh5jRAWcVZAUTKgCzwNascc2BLasgZgqZMfO2acgbqjdscc2F8LVy7y7RbAwkmbscc2FyIWOEQwZxt3eJ6wI4jVcOIK4bZLY0BcX5hQsPC84wQee4xc8UTscc2F0bYDyf8AbatN3H3OQF2FeRQmoZGTjCjt2KVIpLQBS1YO0BTxelnQ=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 22:45</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">1</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value">4</strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">12648</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Warszawa Wschodnia</span> - <span lang="pl-PL">Radom Główny</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=GYe1BoZUrTWscc2BRjiHtVOscc2FdnNQv6IYE6Bjscc2Fuzq5Yv2juwIxqfyw0Gz3mtXxYX41zALPOiMAz69hCi8mYAbHNrscc2FeCGpW4gVJ2HK6TWEMmhAtnvb2LuYjwbljJznCszMfXAH7kEAstk1B4XrcmyQHYyoTVscc2Fscc2BulkkzBWmbFp1z8kFQYE=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 22:47</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">1</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value">3</strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">SKM <span class="visuallyhidden" lang="pl-PL">Szybka Kolej Miejska </span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">99867</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Warszawa Lotnisko Chopina</span> - <span lang="pl-PL">Sulejówek Miłosna</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=GntoFn7vadYjZ11scc2FbZH9htvRPcGuh5lokxc7WTN4KxvVTtFscc2FRl48h1qroOuWylgg2x5gvOaBLnNEvah68royCSttN3gW0sFEXExFcd7QSE2FkWIscc2B1dgNNxKO5VxnkIYELQXegFt536gDO7tqnoDLtN843cPscc2Fvo0FlBqnGlsJPZg=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 22:50</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">1</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value">4</strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">SKM <span class="visuallyhidden" lang="pl-PL">Szybka Kolej Miejska </span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">97270</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Otwock</span> - <span lang="pl-PL">Pruszków</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=u8scc2F5toPeY71Vnwoy1F58nSRa5FTlDFlneJYp8scc2FEscc2FtNpw1gLg8CA4kmFLEoRolVxqT5Y4kscc2FhPpscc2FwQAWVZ47LniGrEJo2VyoxBnkqwfHJncchdnSscc2BoIscc2BltCRvUJscc2FwmqgP7hVkQ7VXMTsPXPsOy16scc2B35w2rpqLBYXZ8uAbItj5OoVU=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 23:23</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">BUS</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value"></strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">91981</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Skierniewice</span> - <span lang="pl-PL">Warszawa Wschodnia</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                        <button type="button" class="btn btn--sm color--alert txlc" title="Otwórz okno modalne zawierające informacje o utrudnieniach dla relacji Skierniewice - Warszawa Wschodnia." data-window-type="difficulties" data-difficulties="@KM 91981 (BUS)####Na odcinku od stacji Warszawa Włochy do stacji Warszawa Wschodnia pociąg został odwołany. Wprowadzono komunikację zastępczą, godziny przyjazdu i odjazdu komunikacji mogą ulec zmianie.$Na odcinku od stacji Warszawa Włochy do stacji Warszawa Wschodnia obowiązuje komunikacja zastępcza.">Szczegóły utrudnienia</button>
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=ZKUrJO3scc2BlSuG6kA0dqldB4yfsUalLtFyHTz9MyWPTKGqO0VtNkuvcn1WOu9PEbXhhm8YjyzuaIr6nmfhjuHRRscc2FM38NKIU9fscc2FuxdXDqNfr4JJd5nWyEWyAIXjtUU6xKfBKx54sTnp3BifnqZ0dONaNnyQLdwbscc2F3mI5d2P1MpODuM=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 23:23</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">BUS</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value"></strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">19978</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Warszawa Wschodnia</span> - <span lang="pl-PL">Skierniewice</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                        <button type="button" class="btn btn--sm color--alert txlc" title="Otwórz okno modalne zawierające informacje o utrudnieniach dla relacji Warszawa Wschodnia - Skierniewice." data-window-type="difficulties" data-difficulties="@KM 19978 (BUS)####Na odcinku od stacji Warszawa Wschodnia do stacji Warszawa Włochy pociąg został odwołany. Wprowadzono komunikację zastępczą, godziny przyjazdu i odjazdu komunikacji mogą ulec zmianie.$Na odcinku od stacji Warszawa Wschodnia do stacji Warszawa Włochy obowiązuje komunikacja zastępcza.">Szczegóły utrudnienia</button>
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=nOiVFGXVDiF3t1scc2BFcSscc2BMAEfrIRoGNVv4nP1Navscc2FhEuFZddznxjkVUn5EK0scc2BeqCQ8d9SoXmAKr5znz6qk6tyi26zUzU5Rzci4B49scc2BZiEoFBCQRGOArLbSscc2BNGc5LNscc2FYyMPaYdLKQFtscc2F0M9q7duqkONIUscc2FVdmscc2FlEbLiSOjeMi5hlhs=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 23:23</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">BUS</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value"></strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">93468</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Warszawa Wschodnia</span> - <span lang="pl-PL">Sochaczew</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                        <button type="button" class="btn btn--sm color--alert txlc" title="Otwórz okno modalne zawierające informacje o utrudnieniach dla relacji Warszawa Wschodnia - Sochaczew." data-window-type="difficulties" data-difficulties="@KM 93468 (BUS)####Na odcinku od stacji Warszawa Wschodnia do stacji Warszawa Włochy pociąg został odwołany. Wprowadzono komunikację zastępczą, godziny przyjazdu i odjazdu komunikacji mogą ulec zmianie.$Na odcinku od stacji Warszawa Wschodnia do stacji Warszawa Włochy obowiązuje komunikacja zastępcza.">Szczegóły utrudnienia</button>
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=AkoA7zfi7puoLwDyYZKfEi9mMcxqUpdvA4gwiRj7yP4LHSscc2Bo21RR7TneUIgVzmHO0hXqIEK6PBdLtmoscc2FGkTscc2BpyfOLJH4fJCr6PP5oeKHHwIaInzv3nx5kOIMvjKcLLXsO6iLj9scc2BfecH7ftPWfNFGZgYZhDEK2uwRXscc2F86fRCzcTA=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+            <div class="row catalog-table__row abt-focusable" tabindex="0">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Odjazd</span>
+                    <h3 class="item-value"><span class="visuallyhidden hidden--phone">Odjazd</span> 23:41</h3>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Peron</span>
+                    <span class="visuallyhidden hidden--phone">Peron</span>
+                    <strong class="item-value">BUS</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Tor</span>
+                    <span class="visuallyhidden hidden--phone">Tor</span>
+                    <strong class="item-value"></strong>
+                </div>
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Przewoźnik</span>
+                    <span class="visuallyhidden hidden--phone">Przewoźnik</span>
+                    <strong class="item-value">KM <span class="visuallyhidden" lang="pl-PL">"Koleje Mazowieckie - KM" sp. z o.o.</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-6--phone">
+                    <span class="item-label visible--phone">Pociąg</span>
+                    <span class="visuallyhidden hidden--phone">Pociąg</span>
+                    <strong class="item-value" lang="pl-PL"></strong>
+                </div>
+                <div class="col-1 col-6--phone">
+                    <span class="item-label visible--phone">Nr pociągu</span>
+                    <span class="visuallyhidden hidden--phone">Numer pociągu</span>
+                    <strong class="item-value">91423</strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone">
+                    <span class="item-label visible--phone">Relacja</span>
+                    <span class="visuallyhidden hidden--phone">Relacja</span>
+                    <strong class="item-value"><span lang="pl-PL">Łowicz Główny</span> - <span lang="pl-PL">Warszawa Wschodnia</span></strong>
+                </div>
+                <hr class="visible--phone float-left hr--full">
+                <div class="col-2 col-12--phone inline-right inline-center--phone">
+                        <button type="button" class="btn btn--sm color--alert txlc" title="Otwórz okno modalne zawierające informacje o utrudnieniach dla relacji Łowicz Główny - Warszawa Wschodnia." data-window-type="difficulties" data-difficulties="@KM 91423 (BUS)####Na odcinku od stacji Warszawa Włochy do stacji Warszawa Wschodnia pociąg został odwołany. Wprowadzono komunikację zastępczą, godziny przyjazdu i odjazdu komunikacji mogą ulec zmianie.$Na odcinku od stacji Warszawa Włochy do stacji Warszawa Wschodnia obowiązuje komunikacja zastępcza.">Szczegóły utrudnienia</button>
+                </div>
+                
+                <a href="https://portalpasazera.pl/WynikiWyszukiwania/SzczegolyPolaczenia?sid=KSWARSZAWA+OCHOTApo=1&amp;pid=BXXSdYmqtWfvVUncoyFN0xiMVhdhy2Hj1MBVscc2Bo1Escc2FCMxbV2V0jWujALte8uLaEscc2BISddWZ1TNCYyK9ZVbBljkZgM67jCAlzxyBGBNZvG0SSWs3cslWznxVFcPw9ZmAkscc2FFjfieKscc2ByCuzJBjdZhL39jliBhxMYzcfQ368qJJVg2F7I=" class="item-details loadScr" title="Przejdź do szczegółowych danych tego połączenia.">
+                    <span class="visuallyhidden">Szczegóły połączenia</span>
+                    <span class="icon-arrow-right"></span>
+                </a>
+            </div>
+
+
+<ul class="pagination ">
+        <li><a class="loadScr" href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1" title="Poprzednia strona.">Wstecz</a></li>
+        <li class="pagination__current"><a class="loadScr" href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1" title="Strona 1.">1</a></li>
+                        <li><a class="loadScr" href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=2" title="Strona 2.">2</a></li>
+        <li><a class="loadScr" href="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=2" title="Następna strona.">Dalej</a></li>
+</ul>
+        <div class="katalog-polaczen-nie-znaleziono box" style="display: none;">
+            <br>
+            <h3 class="inline-center">Dla wybranej stacji do końca bieżącej doby brak kursujących pociągów. Połączenia dotyczące tej stacji, dla innego terminu kursowania można sprawdzić korzystając z Wyszukiwarki połączeń lub Plakatowego Rozkładu Jazdy Pociągów.</h3>
+            <p class="inline-center">
+                <a href="https://portalpasazera.pl/KatalogStacji" title="Wróć na stronę katalogu stacji dla stacji: WARSZAWA OCHOTA.">Powrót do katalogu stacji</a>
+            </p>
+            <br>
+        </div>
+
+    </div>
+</div>
+
+
+<div id="difficultiesWindow" data-window-class="k-window--with-footer" data-window-title="Utrudnienia" data-window-closemsg="Zamknięto okno utrudnień." class="window-modal window-modal--options" aria-describedby="difficultiesModalDescription">
+    <div id="difficultiesModalDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+    <div class="window-modal-body abt-focusable abt-n-db" tabindex="0">
+    </div>
+    <div class="window-modal__footer">
+        <div class="difficulty-legend abt-focusable abt-n-db" tabindex="0">Objaśnienia:<br>• ZKA - Zastępcza Komunikacja Autobusowa</div>
+        <button class="btn btn--lg btn--color-second float-right options-submit txuc abt-n-db" title="Zamknij okno modalne">Zamknij</button>
+    </div>
+</div>
+
+
+<script id="difficulties-train-template" type="text/x-custom-template">
+    <div class="difficulty-container">
+        <div class="difficulty-relation-hint">Utrudnienia pociągu {pociag}</div>
+        <div class="difficulty-list">{utrudnienia}</div>
+    </div>
+</script>
+<script id="difficulties-list-template" type="text/x-custom-template">
+    <div class="difficulty-type-hint"><ul><li>{opis}</li></ul></div>
+    <div class="difficulty-list">{lista}</div>
+</script>
+
+
+<div id="wheelchairWindow" data-window-class="k-window--with-footer" data-window-title="Udogodnienia dla niepełnosprawnych" data-window-closemsg="Zamknięto okno informacji o udogodnieniach dla niepełnosprawnych." class="window-modal window-modal--options" aria-describedby="wheelchairModalDescription">
+    <div id="wheelchairModalDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+    <div class="window-modal-body abt-focusable abt-n-db" tabindex="0">
+    </div>
+    <div class="window-modal__footer">
+        <div class="wheelchair-legend abt-focusable abt-n-db" tabindex="0">Objaśnienia:<br>• PRM - (ang. <span lang="en-US">passengers with restricted mobility</span>) - pasażerowie o ograniczonej zdolności poruszania się.</div>
+        <button class="btn btn--lg btn--color-second float-right options-submit txuc abt-n-db" title="Zamknij okno modalne">Zamknij</button>
+    </div>
+</div>
+
+
+<script id="wheelchair-relation-template" type="text/x-custom-template">
+    <div class="wheelchair-container">
+        <div class="wheelchair-relation-hint">Udogodnienia dla niepełnosprawnych na stacji {relacja}</div>
+        <div class="wheelchair-list">{wozek}</div>
+    </div>
+</script>
+<script id="wheelchair-list-template" type="text/x-custom-template">
+    <div class="wheelchair-type-hint"><ul><li>{opis}</li></ul></div>
+</script>
+<script id="wheelchair-list-template-other" type="text/x-custom-template">
+    <div class="wheelchair-type-hint"><ul><li>{opis}{lista}</li></ul></div>
+</script>
+
+<script id="info-station-header-template" type="text/x-custom-template">
+    <div class="info-station-hint">Uwaga, przystanek osobowy posiada cechy, które mogą wpłynąć na Twoją podróż:</div>
+</script>
+<script id="info-station-train-list-template" type="text/x-custom-template">
+    <div class="info-station-hint">Pociąg {train}:</div>
+    <div class="info-station">{info}</div>
+</script>
+<script id="info-station-global-list-template" type="text/x-custom-template">
+    <div class="info-station">{info}</div>
+</script>
+
+
+    </div>
+        
+
+<div class="aside-nav" aria-describedby="asideNavDescription" tabindex="-1">
+    <div id="asideNavDescription" tabindex="-1" class="visuallyhidden">Uwaga, znajdujesz się w menu modalnym. W celu zamknięcia menu modalnego użyj klawisza ESCAPE. Wciśnij TAB by poruszać się po kolejnych elementach w ramach otwartego menu.</div>
+    <button id="nav-close" tabindex="-1" type="button" data-nav="toggle" class="btn btn--txt btn-nav-toggle abt-n-db" title="Zwijanie bocznego menu"><span class="icon-close icon-close--white"></span> <span class="txuc">Menu</span></button>
+
+    <div class="aside-nav__scroll">
+        <nav class="main-nav">
+            <ul class="list-unstyled hidden--mobile">
+                    <li class="W"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/" tabindex="-1">Wyszukiwanie połączeń</a></li>
+                                    <li class="UA"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Ukraina" tabindex="-1">Безкоштовні поїзди для UA
+Bezpłatne pociągi dla UA</a></li>
+                                <li class="PRJP"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Plakaty" tabindex="-1">Plakatowy rozkład jazdy</a></li>
+                    <li class="T"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Opoznienia" tabindex="-1">Opóźnienia i utrudnienia</a></li>
+                                    <li class="P"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Poradnik" tabindex="-1">Poradnik</a></li>
+                                    <li class="MOB"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Mobilne" tabindex="-1">Aplikacja mobilna</a></li>
+                                    <li class="K"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Kontakt" tabindex="-1">Kontakt</a></li>
+            </ul>
+
+            <ul class="list-unstyled visible--mobile">
+                    <li class="W"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/" tabindex="-1">Wyszukiwanie połączeń</a></li>
+                                    <li class="UA"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Ukraina" tabindex="-1">Безкоштовні поїзди для UA
+Bezpłatne pociągi dla UA</a></li>
+                                <li class="PRJP"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Plakaty" tabindex="-1">Plakatowy rozkład jazdy</a></li>
+                    <li><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Tablice" tabindex="-1">Sieciowy rozkład jazdy</a></li>
+                                    <li><a class="loadScr abt-n-db" href="https://portalpasazera.pl/KatalogStacji" tabindex="-1">Katalog stacji</a></li>
+                                                    <li class="T"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Opoznienia" tabindex="-1">Opóźnienia i utrudnienia</a></li>
+                                    <li class="P"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Poradnik" tabindex="-1">Poradnik</a></li>
+                                    <li class="MOB"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Mobilne" tabindex="-1">Aplikacja mobilna</a></li>
+                                    <li class="K"><a class="loadScr abt-n-db" href="https://portalpasazera.pl/Kontakt" tabindex="-1">Kontakt</a></li>
+            </ul>
+
+        </nav>
+        <ul class="list-inline aside-nav__mini-links">
+            <li><a href="https://www.plk-sa.pl/o-spolce/biuro-prasowe/informacje-prasowe" target="_blank" class="txlc abt-n-db" title="Wyświetl informacje prasowe. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce." tabindex="-1">Biuro prasowe</a></li>
+            <li><a href="https://www.plk-sa.pl/o-spolce/o-pkp-polskich-liniach-kolejowych-sa/czym-sie-zajmujemy" target="_blank" class="txlc abt-n-db" title="Wyświetl informacje o naszej spółce. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce." tabindex="-1">O spółce</a></li>
+            <li><a href="https://plk-sa.pl/" target="_blank" class="abt-n-db" title="Przejdź na oficjalną stronę spółki PKP PLK S.A. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce." tabindex="-1">plk-sa.pl</a></li>
+        </ul>
+        <ul class="list-inline aside-nav__social-links">
+            <li class="abt-n-db abt-focusable"><a href="https://www.facebook.com/PolskieLinieKolejowe" lang="en" target="_blank" class="abt-n-db abt-parent" title="Przejdź na stronę naszej spółki w portalu Facebook. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce." tabindex="-1"><span class="icon-facebook icon--md"></span>Facebook</a></li>
+            <li class="abt-n-db abt-focusable"><a href="https://www.twitter.com/PKP_PLK_SA" lang="en" target="_blank" class="abt-n-db abt-parent" title="Przejdź na stronę naszej spółki w portalu Twitter. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce." tabindex="-1"><span class="icon-twitter icon--md"></span>Twitter</a></li>
+            <li class="abt-n-db abt-focusable"><a href="https://www.youtube.com/user/PolskieLinieKolejowe" lang="en" target="_blank" class="abt-n-db abt-parent" title="Przejdź na stronę naszej spółki w portalu Youtube. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce." tabindex="-1"><span class="icon-youtube icon--md"></span>Youtube</a></li>
+            <li class="abt-n-db abt-focusable"><a href="https://www.instagram.com/polskie_linie_kolejowe" lang="en" target="_blank" class="abt-n-db abt-parent" title="Przejdź na stronę naszej spółki w portalu Instagram. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce." tabindex="-1"><span class="icon-instagram icon--md"></span>Instagram</a></li>
+        </ul>
+    </div>
+</div>
+    
+    
+<div class="footer">
+    <a id="accessible-footer"></a>
+    <nav class="inline-center">
+        <ul class="list-inline">
+                <li><a class="loadScr abt-n-db abt-c-bb" href="https://portalpasazera.pl/Tablice">Sieciowy rozkład jazdy</a></li>
+                            <li><a class="loadScr abt-n-db abt-c-bb" href="https://portalpasazera.pl/KatalogStacji">Katalog stacji</a></li>
+                        <li><a class="loadScr abt-n-db abt-c-bb" href="https://portalpasazera.pl/MapaStrony">Mapa strony</a></li>
+            <li><a class="loadScr abt-n-db abt-c-bb" href="https://portalpasazera.pl/Dostepnosc">Dostępność</a></li>
+            <li><a class="abt-n-db abt-c-bb" href="https://portalpasazera.pl/Content/terms/PDP_Regulamin_WCAG2.pdf" target="_blank" title="Pobiera pełną wersję regulaminu obowiązującego od 15.05.2014. Uwaga, może nastąpić otwarcie nowej zakładki w przeglądarce. Plik w formacie PDF. Wersja polska. Rozmiar pliku 376 KB.">Regulamin</a></li>
+            <li><a class="loadScr abt-n-db abt-c-bb" href="https://portalpasazera.pl/PolitykaPrywatnosci">Polityka prywatności</a></li>
+                <li><a class="loadScr abt-n-db abt-c-bb" href="https://portalpasazera.pl/Kontakt">Kontakt</a></li>
+        </ul>
+    </nav>
+    <div class="footer__socials box">
+        <div class="col-6 col-12--phone inline-center--phone">
+            <p>Pobierz aplikację mobilną:</p>
+            <ul class="list-inline">
+                <li><a class="abt-n-db abt-c-bb" href="https://play.google.com/store/apps/details?id=pl.plksa.portalpasazera&amp;hl=pl" target="_blank" title="Przejdź na stronę pobierania aplikacji Portal Pasażera na telefon z systemem Android ze sklepu Google Play. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce."><span class="icon-android icon--md"></span>Google Play</a></li>
+                <li><a class="abt-n-db abt-c-bb" href="https://apps.apple.com/pl/app/portal-pasa%C5%BCera/id1454640062" target="_blank" title="Przejdź na stronę pobierania aplikacji Portal Pasażera na telefon z systemem iOS ze sklepu App Store. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce."><span class="icon-apple icon--md"></span>App Store</a></li>
+                <li><a class="abt-n-db abt-c-bb" href="https://appgallery1.huawei.com/#/app/C102433641" target="_blank" title="Przejdź na stronę pobierania aplikacji Portal Pasażera na telefon z systemem Android ze sklepu App Gallery. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce."><span class="icon-appgallery icon--md" style="font-size: 2.8rem;"></span>App Gallery</a></li>
+            </ul>
+        </div>
+        <div class="col-6 col-12--phone inline-right">
+            <p class="hidden--phone">Obserwuj nas na:</p>
+            <ul class="list-inline inline-center--phone">
+                <li><a class="abt-n-db abt-c-bb" href="https://www.facebook.com/PolskieLinieKolejowe" lang="en" target="_blank" title="Przejdź na stronę naszej spółki w portalu Facebook. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce."><span class="icon-facebook icon--md"></span>Facebook</a></li>
+                <li><a class="abt-n-db abt-c-bb" href="https://www.twitter.com/PKP_PLK_SA" lang="en" target="_blank" title="Przejdź na stronę naszej spółki w portalu Twitter. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce."><span class="icon-twitter icon--md"></span>Twitter</a></li>
+                <li><a class="abt-n-db abt-c-bb" href="https://www.youtube.com/user/PolskieLinieKolejowe" lang="en" target="_blank" title="Przejdź na stronę naszej spółki w portalu Youtube. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce."><span class="icon-youtube icon--md"></span>Youtube</a></li>
+                <li><a class="abt-n-db abt-c-bb" href="https://www.instagram.com/polskie_linie_kolejowe" lang="en" target="_blank" title="Przejdź na stronę naszej spółki w portalu Instagram. Uwaga, przejście spowoduje otwarcie nowej zakładki w przeglądarce."><span class="icon-instagram icon--md"></span>Instagram</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<p class="footer-copy inline-center">Copyright © 2022 PKP Polskie Linie Kolejowe S.A. Wszelkie prawa zastrzeżone.</p>
+<p class="footer-copy inline-center">v. 3.0.1.3</p>
+    
+    <input name="__RequestVerificationToken" type="hidden" value="B7qIWEcpmp1pAN8E2nDPrgyAG1CzeCiej6OMfQukGshVaB7Tqnw61PZ4bOhk9Ol9q02yAuxONavSkVSJgjiraqFPRaCUBx6-gu04TzfHoDo1">
+    <div id="findTrainModal" data-window-title="Znajdź pociąg" data-window-closemsg="Zamknięto okno znajdź pociąg." class="window-modal" aria-describedby="findTrainModalDescription">
+        <div id="findTrainModalDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+        <form action="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1#" class="train-search" onsubmit="return false;">
+            <div id="errorContainerFT" class="visuallyhidden" style="display: none;" role="alert"></div>
+            <span class="icon-plk-help icon-infotip-onpage icon--sm float-right abt-n-db abt-focusable" title="Znajdź pociąg na stacji to podstrona, która pozwoli Ci szybko sprawdzić odjazdy i przyjazdy z danej stacji." tabindex="0" data-role="tooltip">
+                <span class="visuallyhidden">Informacja - Znajdź pociąg na stacji to podstrona, która pozwoli Ci szybko sprawdzić odjazdy i przyjazdy z danej stacji.</span>
+            </span>
+            <div class="row inline-center form__inputs-center find-train__type">
+                <label>
+                    <input id="ft-odjazd" class="mate-input abt-n-db" type="radio" name="train-search__deparr" checked="" aria-label="Odjazdy - Użyj strzałek by przełączyć między pozostałymi opcjami.">
+                    <span>Odjazdy</span>
+                </label>
+                <label>
+                    <input id="ft-przyjazd" class="mate-input abt-n-db" type="radio" name="train-search__deparr" aria-label="Przyjazdy - Użyj strzałek by przełączyć między pozostałymi opcjami.">
+                    <span>Przyjazdy</span>
+                </label>
+                <span class="icon-plk-help icon-infotip-onpage icon--sm abt-n-db abt-focusable" title="Zaznacz odjazdy – jeśli interesują Cię odjazdy pociągów z wybranej przez Ciebie stacji. Zaznacz przyjazdy – jeśli interesują Cię przyjazdy pociągów z wybranej przez Ciebie stacji." tabindex="0" data-role="tooltip">
+                    <span class="visuallyhidden">Informacja - Zaznacz odjazdy – jeśli interesują Cię odjazdy pociągów z wybranej przez Ciebie stacji. Zaznacz przyjazdy – jeśli interesują Cię przyjazdy pociągów z wybranej przez Ciebie stacji.</span>
+                </span>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="param-error stationComment" data-commentfor1="ft-station" data-show1="false" data-show1id="" data-commentfor2="" data-show2="false" data-show2id="" role="alert"></div>
+                    <div class="param-error fts"></div>
+                    <div class="fieldset-group">
+                        <div class="input-wrapper">
+                            <div class="picker-wrapper">
+                                <span tabindex="-1" role="presentation" class="k-widget k-autocomplete k-header field-with-floating-label k-state-default" style=""><input type="text" class="field-with-floating-label k-input" id="ft-station" autocomplete="off" aria-label="Wpisz nazwę stacji - Pole obowiązkowe - Podpowiedzi zostaną wyświetlone po wpisaniu pierwszego znaku. Użyj strzałek GÓRA, DÓŁ by przechodzić po kolejnych wynikach. Użyj przycisku ENTER by zatwierdzić wybór stacji." data-role="autocomplete" role="textbox" aria-haspopup="true" aria-disabled="false" aria-readonly="false" aria-owns="ft-station_listbox" aria-autocomplete="list" style="width: 100%;"><span unselectable="on" class="k-icon k-i-close" title="clear" role="button" tabindex="-1"></span><span class="k-icon k-i-loading" style="display:none"></span></span>
+                            </div>
+                            <label class="floating-label">Wpisz nazwę stacji</label>
+                            <span class="icon-plk-start icon--md"></span>
+                        </div>
+                        <span id="ft-stationNZ" class="icon-plk-trojkat icon--md icon-trojkat abt-focusable" title="Pociąg zatrzymuje się na tym przystanku osobowym tylko na żądanie. Jeżeli chcesz wsiąść na tym przystanku osobowym, oczekuj na pociąg w miejscu widocznym dla maszynisty. Jeżeli chcesz wysiąść na tym przystanku osobowym, poinformuj obsługę pociągu. " tabindex="0">
+                            <span class="visuallyhidden">Informacja - Pociąg zatrzymuje się na tym przystanku osobowym tylko na żądanie. Jeżeli chcesz wsiąść na tym przystanku osobowym, oczekuj na pociąg w miejscu widocznym dla maszynisty. Jeżeli chcesz wysiąść na tym przystanku osobowym, poinformuj obsługę pociągu. </span>
+                        </span>
+                        <span class="icon-plk-help icon--md icon-infotip abt-focusable" title="Wpisz nazwę stacji, dla której chcesz sprawdzić odjazdy lub przyjazdy. System podpowiada nazwy stacji po wpisaniu pierwszego i kolejnych znaków." tabindex="0" data-role="tooltip">
+                            <span class="visuallyhidden">Informacja - Wpisz nazwę stacji, dla której chcesz sprawdzić odjazdy lub przyjazdy. System podpowiada nazwy stacji po wpisaniu pierwszego i kolejnych znaków.</span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="param-error ftg"></div>
+                    <div class="gphTimePickerPlaceholder gphFindTrain">
+                        <div class="gphTimePickerHoursWnd">
+                            <div class="gphTimePickerHoursList">
+                                <div class="row"><div class="col-4">00:00</div><div class="col-4">01:00</div><div class="col-4">02:00</div></div>
+                                <div class="row"><div class="col-4">03:00</div><div class="col-4">04:00</div><div class="col-4">05:00</div></div>
+                                <div class="row"><div class="col-4">06:00</div><div class="col-4">07:00</div><div class="col-4">08:00</div></div>
+                                <div class="row"><div class="col-4">09:00</div><div class="col-4">10:00</div><div class="col-4">11:00</div></div>
+                                <div class="row"><div class="col-4">12:00</div><div class="col-4">13:00</div><div class="col-4">14:00</div></div>
+                                <div class="row"><div class="col-4">15:00</div><div class="col-4">16:00</div><div class="col-4">17:00</div></div>
+                                <div class="row"><div class="col-4">18:00</div><div class="col-4">19:00</div><div class="col-4">20:00</div></div>
+                                <div class="row"><div class="col-4">21:00</div><div class="col-4">22:00</div><div class="col-4">23:00</div></div>
+                            </div>
+                        </div>
+                        <div class="fieldset-group fieldset-group--date box--flex--to-left">
+                            <div class="input-wrapper">
+                                <div class="picker-wrapper focus">
+                                    <input class="kendoTimePicker field-with-floating-label" id="ft-timeStart" type="text" autocomplete="off" aria-label="Wpisz godzinę - Pole obowiązkowe - Format wprowadzania: godzina dwie cyfry, dwkropek, minuta dwie cyfry.">
+                                </div>
+                                <label class="floating-label">Godzina</label>
+                                <span class="icon-plk-time icon--md"></span>
+                            </div>
+                            <span class="icon-plk-help icon--md icon-infotip abt-focusable" title="Wybierz godzinę, od której system ma rozpocząć wyszukiwanie." tabindex="0" data-role="tooltip">
+                                <span class="visuallyhidden">Informacja - Wybierz godzinę, od której system ma rozpocząć wyszukiwanie.</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row inline-center">
+                <button id="ft-search" class="btn btn--lg btn--color-second txuc abt-n-db" aria-label="Szukaj - Spowoduje przejście do listy pociągów wdług zdefiniowanych parametrów.">Szukaj</button>
+            </div>
+        </form>
+    </div>
+    <div id="findTrainNumberModal" data-window-title="Znajdź pociąg" data-window-closemsg="Zamknięto okno znajdź pociąg." class="window-modal" aria-describedby="findTrainModalDescription">
+        <div id="findTrainNumberModalDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+        <form action="https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&amp;p=1#" class="train-search" onsubmit="return false;">
+            <div id="errorContainerFTN" class="visuallyhidden" style="display: none;" role="alert"></div>
+            <span class="icon-plk-help icon-infotip-onpage icon--sm float-right abt-n-db abt-focusable" title="Znajdź pociąg po numerze, to podstrona, która pozwoli Ci szybko wyszukać konkretny pociąg w obecnej dobie po jego numerze." tabindex="0" data-role="tooltip">
+                <span class="visuallyhidden">Informacja - Znajdź pociąg po numerze, to podstrona, która pozwoli Ci szybko wyszukać konkretny pociąg w obecnej dobie po jego numerze.</span>
+            </span>
+            <div class="row inline-center form__inputs-center find-train__type abt-focusable abt-n-db" tabindex="0">
+                <span>Uważaj, numer pociągu może się zmieniać na trasie i niekoniecznie musi być zbieżny z numerem na Twoim bilecie!</span>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="param-error ftn"></div>
+                    <div class="fieldset-group">
+                        <div class="input-wrapper">
+                            <div class="picker-wrapper">
+                                <span tabindex="-1" role="presentation" class="k-widget k-autocomplete k-header field-with-floating-label k-state-default" style=""><input type="text" class="field-with-floating-label k-input" id="ftn-number" autocomplete="off" aria-label="Wpisz numer pociągu - Pole obowiązkowe - Podpowiedzi zostaną wyświetlone po wpisaniu pierwszej cyfry. Użyj strzałek GÓRA, DÓŁ by przechodzić po kolejnych wynikach. Użyj przycisku ENTER, aby zatwierdzić wybór numeru pociągu." data-role="autocomplete" role="textbox" aria-haspopup="true" aria-disabled="false" aria-readonly="false" aria-owns="ftn-number_listbox" aria-autocomplete="list" style="width: 100%;"><span unselectable="on" class="k-icon k-i-close" title="clear" role="button" tabindex="-1"></span><span class="k-icon k-i-loading" style="display:none"></span></span>
+                            </div>
+                            <label class="floating-label">Wpisz numer pociągu</label>
+                            <span class="icon-search icon--md"></span>
+                        </div>
+                        <span class="icon-plk-help icon--md icon-infotip abt-focusable" title="Wpisz numer pociągu, który chcesz wyszukać w dzisiejszej dobie. System podpowiada numery pociągów po wpisaniu pierwszej i kolejnych cyfr." tabindex="0" data-role="tooltip">
+                            <span class="visuallyhidden">Informacja - Wpisz numer pociągu, który chcesz wyszukać w dzisiejszej dobie. System podpowiada numery pociągów po wpisaniu pierwszej i kolejnych cyfr.</span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="row inline-center">
+                <button id="ftn-search" class="btn btn--lg btn--color-second txuc abt-n-db" aria-label="Szukaj - Spowoduje przejście do listy pociągów wdług zdefiniowanych parametrów.">Szukaj</button>
+            </div>
+        </form>
+    </div>
+    <div id="findStationModal" data-window-title="Wyszukaj stację" data-window-closemsg="Zamknięto okno wyszukaj stację." class="window-modal fullscr" aria-describedby="findStationModalDescription">
+        <div id="findStationModalDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+        <div class="stations-table-search">
+            <form id="mobile-station-search_form" onsubmit="return false;" autocomplete="off">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="fieldset-group fieldset-group--wide box--flex">
+                            <div class="input-wrapper">
+                                <div class="picker-wrapper">
+                                    <input id="searchStationMobile" type="text" class="field-with-floating-label" aria-label="Wpisz nazwę stacji - Pole obowiązkowe - Podpowiedzi zostaną wyświetlone po wpisaniu pierwszego znaku. Użyj przycisku TAB by przechodzić po kolejnych wynikach. Użyj przycisku ENTER by zatwierdzić wybór stacji.">
+                                </div>
+                                <label class="floating-label">Stacja</label>
+                                <span class="icon-search icon--md"></span>
+                            </div>
+                            <span id="searchStationMobileNZ" class="icon-plk-trojkat icon--md icon-trojkat abt-focusable" title="Pociąg zatrzymuje się na tym przystanku osobowym tylko na żądanie. Jeżeli chcesz wsiąść na tym przystanku osobowym, oczekuj na pociąg w miejscu widocznym dla maszynisty. Jeżeli chcesz wysiąść na tym przystanku osobowym, poinformuj obsługę pociągu. " tabindex="0">
+                                <span class="visuallyhidden">Informacja - Pociąg zatrzymuje się na tym przystanku osobowym tylko na żądanie. Jeżeli chcesz wsiąść na tym przystanku osobowym, oczekuj na pociąg w miejscu widocznym dla maszynisty. Jeżeli chcesz wysiąść na tym przystanku osobowym, poinformuj obsługę pociągu. </span>
+                            </span>
+                            <span class="icon-plk-help icon--md icon-infotip abt-focusable" title="Wybierz interesująca Cię stację. System podpowiada nazwy stacji po wpisaniu pierwszego znaku i zmienia po wprowadzeniu każdego kolejnego znaku." tabindex="0" data-role="tooltip">
+                                <span class="visuallyhidden">Informacja - Wybierz interesująca Cię stację. System podpowiada nazwy stacji po wpisaniu pierwszego znaku i zmienia po wprowadzeniu każdego kolejnego znaku.</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div id="mobile-station-search_list" class="table-search-info inline-center station-list" role="alert"></div>
+    </div>
+    <div id="findStationModalAgl" data-window-title="Wyszukaj stację" data-window-closemsg="Zamknięto okno wyszukaj stację." class="window-modal fullscr" aria-describedby="findStationModalDescription">
+        <div id="findStationModalAglDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+        <div class="stations-table-search">
+            <form id="mobile-station-search-agl_form" onsubmit="return false;" autocomplete="off">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="fieldset-group fieldset-group--wide box--flex">
+                            <div class="input-wrapper">
+                                <div class="picker-wrapper">
+                                    <input id="searchStationMobileAgl" type="text" class="field-with-floating-label" aria-label="Wpisz nazwę stacji - Pole obowiązkowe - Podpowiedzi zostaną wyświetlone po wpisaniu pierwszego znaku. Użyj przycisku TAB by przechodzić po kolejnych wynikach. Użyj przycisku ENTER by zatwierdzić wybór stacji.">
+                                </div>
+                                <label class="floating-label">Stacja</label>
+                                <span class="icon-search icon--md"></span>
+                            </div>
+                            <span id="searchStationMobileAglNZ" class="icon-plk-trojkat icon--md icon-trojkat abt-focusable" title="Pociąg zatrzymuje się na tym przystanku osobowym tylko na żądanie. Jeżeli chcesz wsiąść na tym przystanku osobowym, oczekuj na pociąg w miejscu widocznym dla maszynisty. Jeżeli chcesz wysiąść na tym przystanku osobowym, poinformuj obsługę pociągu. " tabindex="0">
+                                <span class="visuallyhidden">Informacja - Pociąg zatrzymuje się na tym przystanku osobowym tylko na żądanie. Jeżeli chcesz wsiąść na tym przystanku osobowym, oczekuj na pociąg w miejscu widocznym dla maszynisty. Jeżeli chcesz wysiąść na tym przystanku osobowym, poinformuj obsługę pociągu. </span>
+                            </span>
+                            <span class="icon-plk-help icon--md icon-infotip abt-focusable" title="Wybierz interesująca Cię stację. System podpowiada nazwy stacji po wpisaniu pierwszego znaku i zmienia po wprowadzeniu każdego kolejnego znaku." tabindex="0" data-role="tooltip">
+                                <span class="visuallyhidden">Informacja - Wybierz interesująca Cię stację. System podpowiada nazwy stacji po wpisaniu pierwszego znaku i zmienia po wprowadzeniu każdego kolejnego znaku.</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div id="mobile-station-search-agl_list" class="table-search-info inline-center station-list" role="alert"></div>
+    </div>
+    <div id="findNumberModal" data-window-title="Wyszukaj numer pociągu" data-window-closemsg="Zamknięto okno wyszukaj numer pociągu." class="window-modal fullscr" aria-describedby="findNumberModalDescription">
+        <div id="findNumberModalDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+        <div class="numbers-table-search">
+            <form id="mobile-number-search_form" onsubmit="return false;" autocomplete="off">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="fieldset-group fieldset-group--wide box--flex">
+                            <div class="input-wrapper">
+                                <div class="picker-wrapper">
+                                    <input id="searchNumberMobile" type="text" class="field-with-floating-label" aria-label="Wpisz numer pociągu - Pole obowiązkowe - Podpowiedzi zostaną wyświetlone po wpisaniu pierwszej cyfry. Użyj strzałek GÓRA, DÓŁ by przechodzić po kolejnych wynikach. Użyj przycisku ENTER, aby zatwierdzić wybór numeru pociągu.">
+                                </div>
+                                <label class="floating-label">Numer pociągu</label>
+                                <span class="icon-search icon--md"></span>
+                            </div>
+                            <span class="icon-plk-help icon--md icon-infotip abt-focusable" title="Wpisz numer pociągu, który chcesz wyszukać w dzisiejszej dobie. System podpowiada numery pociągów po wpisaniu pierwszej i kolejnych cyfr." tabindex="0" data-role="tooltip">
+                                <span class="visuallyhidden">Informacja - Wpisz numer pociągu, który chcesz wyszukać w dzisiejszej dobie. System podpowiada numery pociągów po wpisaniu pierwszej i kolejnych cyfr.</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div id="mobile-number-search_list" class="table-search-info inline-center number-list" role="alert"></div>
+    </div>
+    
+<div id="stationInfoWindow" data-window-class="k-window--with-footer" data-window-title="Informacje o przystanku osobowym" data-window-closemsg="Zamknięto okno informacji o stacji." class="window-modal window-modal--options" aria-describedby="stationInfoModalDescription">
+    <div id="stationInfoModalDescription" class="visuallyhidden">Uwaga, znajdujesz się w oknie modalnym. W celu zamknięcia okna modalnego użyj klawisza ESCAPE. Wciśnij tab by poruszać się po kolejnych elementach w ramach otwartego okna.</div>
+    <div class="window-modal-body abt-focusable abt-n-db" tabindex="0">
+    </div>
+    <div class="window-modal__footer">
+        <button class="btn btn--lg btn--color-second float-right options-submit abt-n-db" title="Zamknij okno modalne">Zamknij</button>
+    </div>
+</div>
+
+    
+    <script id="mobile-station-search-item-template" type="text/x-custom-template">
+        <div class="row delays-table__row abt-n-db abt-focusable">
+            <div class="col-12 station-cnt">
+                <button type="button" class="btn item-details ms setStBtn abt-n-db abt-parent-2" data-st="{st}">
+                    <span class="item-value" lang="{sl}">{s}</span>
+                </button>
+            </div>
+        </div>
+    </script>
+    <script id="mobile-number-search-item-template" type="text/x-custom-template">
+        <div class="row delays-table__row abt-n-db abt-focusable">
+            <div class="col-12 number-cnt">
+                <button type="button" class="btn item-details ms setNmBtn abt-n-db abt-parent-2" data-nm="{nm}">
+                    <span class="item-value">{n}</span>
+                </button>
+            </div>
+        </div>
+    </script>
+
+    <script type="text/javascript">
+        
+        var urlLang = [['PL','https://portalpasazera.pl/KatalogStacji?stacja=WARSZAWA+OCHOTA&p=1'],['EN','https://portalpasazera.pl/en/KatalogStacji?stacja=WARSZAWA+OCHOTA&p=1'],['UA','https://portalpasazera.pl/ua/KatalogStacji?stacja=WARSZAWA+OCHOTA&p=1']];
+        var urlFindTrain = '/Wyszukiwarka/ZnajdzPociag';
+        var urlFindTrainResult = '/WynikiWyszukiwania/ZnajdzPociag';
+        var urlFindTrainNumber = '/Wyszukiwarka/ZnajdzPociagNumer';
+        var urlFindTrainNumberResult = '/WynikiWyszukiwania/ZnajdzPociagNumer';
+    </script>
+    <script type="text/javascript">
+
+        var urlMobile = '/Mobilne';
+        var _WerjaMapa = 3;
+        var _NotifyStationSelect = true;
+        var _NotifyTrainNumberSelect = true;
+        var _CurrentCulture = 'pl-PL';
+        var _CurrentMobile = false;
+        var _Langs = [['EN','English','You have selected language {jezyk}. Press ENTER to reload page in selected language'],['PL','Polski','Wybrano język {jezyk}. Wciśnij ENTER by załadować stronę w wybranym języku'],['UA','український','Вибрана мова {jezyk}. Натисніть ENTER, щоб завантажити сторінку вибраною мовою']];
+        var _ListCount = [7];
+        var _StationsComment = [[33506],[38653,33605,33571,33498,33639,33647,1000001]];
+        var _StationsCommentText = ['W związku z przebudową Warszawskiego Węzła Kolejowego<ul style="margin-top:0; margin-bottom:4px; text-align:left;"><li>dostęp do peronów na stacji <b>Warszawa Zachodnia</b> jest utrudniony – droga do peronów 6, 7 i 9 prowadzi przez kładkę,</li><li>osobom o ograniczonej sprawności ruchowej, podróżującym z dużym bagażem, rowerami i wózkami dziecięcymi sugerujemy korzystanie ze stacji Warszawa Centralna, Warszawa Śródmieście, Warszawa Gdańska, Warszawa Główna</li></ul>Prosimy o zapoznanie się z informacjami w sekcji Komunikaty oraz na stronie <a href="http://www.stolicadobrychrelacji.pl/" title="Przejdź na stronę informacyjną. Uwaga nastąpi przekierowanie do zewnętrznego portalu. Nastąpi otwarcie nowej zakładki w przeglądarce.">www.stolicadobrychrelacji.pl</a>','W związku z modernizacją Warszawskiego Węzła Kolejowego, liczba pociągów na odcinku Warszawa Zachodnia - Warszawa Wschodnia jest ograniczona. Proponujemy wyszukać także połączenia do/ze stacji WARSZAWA-. Prosimy o zapoznanie się z informacjami w sekcji Komunikaty oraz na stronie <a href="http://www.stolicadobrychrelacji.pl/" title="Przejdź na stronę informacyjną. Uwaga nastąpi przekierowanie do zewnętrznego portalu. Nastąpi otwarcie nowej zakładki w przeglądarce.">www.stolicadobrychrelacji.pl</a>'];
+        var _GlobalEtk = {
+        'lbSt': 'Wpisz nazwę stacji',
+        'lbTm': 'Godzina',
+        'lbZp': 'ZNAJDŹ POCIĄG',
+        'lbTn': 'Wpisz numer pociągu',
+        'lbZpW': 'Znajdź pociąg - Wybierz według jakich kryteriów chcesz wyszukać pociąg. W zależności od wybranej pozycji na liście zostanie wyświetlone odpowiednie okno modalne. Użyj strzałek góra/dół by przełączyć między dostępnymi opcjami.',
+        'lbZpWs': 'na stacji',
+        'lbZpWn': 'po numerze',
+        'lbZpItem': 'Wybrano okno {okno}. Wciśnij ENTER by otworzyć okno Znajdź pociąg po zadanych kryteriach',
+        'wndClose': 'Zamknij okno modalne.',
+        'hghAct': 'Tryb wysokiego kontrastu aktywny.',
+        'hghDct': 'Tryb wysokiego kontrastu nie aktywny.',
+        'kacSel': 'Wybrano',
+        'infoOn': 'Wyświetlanie dodatkowych infomacji na stronie aktywne.',
+        'infoOff': 'Wyświetlanie dodatkowych infomacji na stronie nie aktywne.',
+        'searching': 'Trwa wyszukiwanie',
+        'downloading': 'Trwa pobieranie danych'
+    }
+    var _Errors = {
+        'err': 'Błąd w polu',
+        'departureFrom_err_1': 'Wpisz nazwę stacji początkowej.',
+        'departureFrom_err_2': 'Wpisana nazwa stacji początkowej jest nieprawidłowa. Prosimy o zwrócenie uwagi na poprawną pisownię.',
+        'arrivalTo_err_1': 'Wpisz nazwę stacji końcowej.',
+        'arrivalTo_err_2': 'Wpisana nazwa stacji końcowej jest nieprawidłowa. Prosimy o zwrócenie uwagi na poprawną pisownię.',
+        'arrivalTo_departureFrom_err_1': 'Stacja początkowa musi być inna niż stacja końcowa.',
+        'arrivalTo_departureFrom_err_2': 'Stacja początkowa musi być inna niż stacja końcowa, lub musi zostać dodana stacja pośrednia.',
+        'arrivalTo_departureFrom_err_3': 'Stacja pośrednia nie może być taka sama jak stacja początkowa ani stacja końcowa.',
+        'station_err_1': 'Wpisz nazwę stacji.',
+        'station_err_2': 'Wpisana nazwa stacji jest nieprawidłowa. Prosimy o zwrócenie uwagi na poprawną pisownię.',
+        'station_err_3': 'Nie znaleziono stacji',
+        'trainNumber_err_1': 'Wpisz numer pociągu.',
+        'trainNumber_err_2': 'Wpisany numer pociągu jest nieprawidłowy. Prosimy o zwrócenie uwagi na poprawną pisownię.',
+        'trainNumber_err_3': 'Nie znaleziono numeru pociągu',
+        'date_err_1': 'Wybierz datę.',
+        'date_err_2': 'Wybrana data jest nieprawidłowa. Prosimy o zwrócenie uwagi na poprawność wpisywanych wartości.',
+        'date_err_3': 'Wpisana data wykracza poza dopuszczalny zakres. Data powinna być większa niż {data_min} oraz mniejsza niż {data_max}.',
+        'time_err_1': 'Wybierz godzinę.',
+        'time_err_2': 'Wybrana godzina jest nieprawidłowa. Prosimy o zwrócenie uwagi na poprawność wpisywanych wartości.',
+        'line_err_1': 'Wpisz numer linii.',
+        'line_err_2': 'Wpisany numer linii jest nieprawidłowy. Prosimy o zwrócenie uwagi na poprawną pisownię.',
+        'line_err_3': 'Nie znaleziono numeru linii',
+        'table_err_1': 'Wpisz numer tablicy.',
+        'table_err_2': 'Wpisany numer tablicy jest nieprawidłowy. Prosimy o zwrócenie uwagi na poprawną pisownię.',
+        'table_err_3': 'Nie znaleziono nazwy tablicy',
+        'table_err_4': 'Nie znaleziono numeru tablicy',
+        'no_result_1': 'Brak wyników dla podanych parametrów'
+    };
+    </script>
+        <script async="" src="./input_files/js"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'G-9QK0J2MZ72');
+        </script>
+                <script type="text/javascript">
+            var _FooterHideable = false;
+        </script>
+
+<div class="k-list-container k-popup k-group k-reset" id="ft-station-list" data-role="popup" style="display: none; position: absolute;"><div class="k-group-header" style="display:none"></div><div class="k-list-scroller" unselectable="on"><ul unselectable="on" class="k-list k-reset" tabindex="-1" aria-hidden="true" id="ft-station_listbox" aria-live="polite" data-role="staticlist" role="listbox"></ul></div><div class="k-nodata" style="display:none"><div></div></div></div><div class="k-list-container k-popup k-group k-reset" id="ftn-number-list" data-role="popup" style="display: none; position: absolute;"><div class="k-group-header" style="display:none"></div><div class="k-list-scroller" unselectable="on"><ul unselectable="on" class="k-list k-reset" tabindex="-1" aria-hidden="true" id="ftn-number_listbox" aria-live="polite" data-role="staticlist" role="listbox"></ul></div><div class="k-nodata" style="display:none"><div></div></div></div><div class="k-list-container k-popup k-group k-reset" id="katalogStacjiTextBox-list" data-role="popup" style="display: none; position: absolute;"><div class="k-group-header" style="display:none"></div><div class="k-list-scroller" unselectable="on"><ul unselectable="on" class="k-list k-reset" tabindex="-1" aria-hidden="true" id="katalogStacjiTextBox_listbox" aria-live="polite" data-role="staticlist" role="listbox"></ul></div><div class="k-nodata" style="display:none"><div></div></div></div><div class="k-list-container k-popup k-group k-reset" id="lang-selector-list" data-role="popup" style="display: none; position: absolute;"><div class="k-group-header" style="display:none"></div><div class="k-list-scroller" unselectable="on"><ul unselectable="on" class="k-list k-reset" tabindex="-1" aria-hidden="true" id="lang-selector_listbox" aria-live="off" data-role="staticlist" role="listbox"><li tabindex="-1" role="option" unselectable="on" class="k-item k-state-selected k-state-focused" aria-selected="true" data-offset-index="0" id="7682bba3-466c-4825-9a12-0fc796358434">PL</li><li tabindex="-1" role="option" unselectable="on" class="k-item" data-offset-index="1">EN</li><li tabindex="-1" role="option" unselectable="on" class="k-item" data-offset-index="2">UA</li></ul></div><div class="k-nodata" style="display:none"><div>No data found.</div></div></div><div class="k-list-container k-popup k-group k-reset" id="find-train-selector-list" data-role="popup" style="display: none; position: absolute;"><div class="k-list-optionlabel k-state-selected k-state-focused" id="3fd8f8be-623e-4e3c-a09c-362a532ff960">ZNAJDŹ POCIĄG</div><div class="k-group-header" style="display:none"></div><div class="k-list-scroller" unselectable="on"><ul unselectable="on" class="k-list k-reset" tabindex="-1" aria-hidden="true" id="find-train-selector_listbox" aria-live="off" data-role="staticlist" role="listbox"><li tabindex="-1" role="option" unselectable="on" class="k-item" data-offset-index="0">na stacji</li><li tabindex="-1" role="option" unselectable="on" class="k-item" data-offset-index="1">po numerze</li></ul></div><div class="k-nodata" style="display:none"><div>No data found.</div></div></div></body></html>

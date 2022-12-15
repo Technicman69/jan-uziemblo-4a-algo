@@ -1,0 +1,16 @@
+
+a.o:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000000000 <_Z5magicl>:
+   0:	48 0f af ff          	imul   %rdi,%rdi
+   4:	48 0f af ff          	imul   %rdi,%rdi
+   8:	48 0f af ff          	imul   %rdi,%rdi
+   c:	48 0f af ff          	imul   %rdi,%rdi
+  10:	48 0f af ff          	imul   %rdi,%rdi
+  14:	48 0f af ff          	imul   %rdi,%rdi
+  18:	48 85 ff             	test   %rdi,%rdi
+  1b:	0f 95 c0             	setne  %al
+  1e:	c3                   	ret    
